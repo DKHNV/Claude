@@ -1,0 +1,20 @@
+name: DNS maintenance v1 pilot
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dns-maintenance-claude-pilot-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  maintain:
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@c8696805dbdafe8e368b394dc5f21097455352c5
+    with:
+      config_path: dns-maintenance-v1.json
+      collection: claude
+      dry_run: true
+      engine_ref: c8696805dbdafe8e368b394dc5f21097455352c5
