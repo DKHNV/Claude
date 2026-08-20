@@ -1,0 +1,28 @@
+{
+  "sources": {
+    "certspotter": {
+      "anthropic.com": {
+        "after": 15908623140,
+        "caught_up": false,
+        "last_poll": "2026-08-20T17:28:27Z"
+      },
+      "claude.ai": {
+        "after": 16633497110,
+        "caught_up": true,
+        "last_poll": "2026-08-20T17:28:27Z"
+      },
+      "claude.com": {
+        "after": 16620039722,
+        "caught_up": true,
+        "last_poll": "2026-08-20T17:28:27Z"
+      },
+      "claudeusercontent.com": {
+        "after": 16275365363,
+        "caught_up": true,
+        "last_poll": "2026-08-20T17:28:27Z"
+      }
+    }
+  },
+  "updated_at": "2026-08-20T17:28:27Z",
+  "version": 2
+}
