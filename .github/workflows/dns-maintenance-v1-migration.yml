@@ -1,0 +1,27 @@
+name: DNS maintenance v1 migration
+
+on:
+  workflow_dispatch:
+    inputs:
+      apply_migration:
+        description: "Write initial Claude DNS-Maintenance state and update Claude_DNS"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dns-maintenance-claude-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    if: ${{ inputs.apply_migration }}
+    uses: DKHNV/DNS-Maintenance/.github/workflows/reusable-maintenance.yml@c8696805dbdafe8e368b394dc5f21097455352c5
+    with:
+      config_path: dns-maintenance-v1.json
+      collection: claude
+      dry_run: false
+      engine_ref: c8696805dbdafe8e368b394dc5f21097455352c5
