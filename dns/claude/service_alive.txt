@@ -51,7 +51,9 @@ mcp-proxy-staging.anthropic.com
 mcp-proxy.anthropic.com
 metrics.anthropic.com
 microsoft365.mcp.claude.com
+mint.identity.anthropic.com
 notebook.anthropic.com
+partner-sso.anthropic.com
 partnerhub.anthropic.com
 partnerhub.claude.com
 partnerportal.anthropic.com
@@ -70,9 +72,11 @@ releases.claude.com
 resources.anthropic.com
 s-cdn.anthropic.com
 slackbot.anthropic.com
+sso-metadata.anthropic.com
 staging.claude.ai
 staging.claude.com
 staging.claudeusercontent.com
+staging.identity.anthropic.com
 status.anthropic.com
 status.claude.com
 support.anthropic.com

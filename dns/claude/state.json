@@ -10,10 +10,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -40,6 +40,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -55,10 +56,10 @@
       "ipv4": [
         "34.36.57.103"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -85,6 +86,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -98,19 +100,19 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "a-cdn.claude.ai",
       "ipv4": [
-        "13.249.74.3",
-        "13.249.74.55",
-        "13.249.74.86",
-        "13.249.74.121",
-        "18.164.154.84",
-        "18.164.154.94",
-        "18.164.154.96",
-        "18.164.154.123"
+        "3.168.73.10",
+        "3.168.73.51",
+        "3.168.73.93",
+        "3.168.73.109",
+        "18.160.41.36",
+        "18.160.41.69",
+        "18.160.41.89",
+        "18.160.41.117"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -118,34 +120,35 @@
         "1.1.1.1": {
           "canonical_name": "d8f2pm4haz8u1.cloudfront.net",
           "ipv4": [
-            "13.249.74.121",
-            "13.249.74.3",
-            "13.249.74.55",
-            "13.249.74.86"
+            "18.160.41.36",
+            "18.160.41.69",
+            "18.160.41.89",
+            "18.160.41.117"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "d8f2pm4haz8u1.cloudfront.net",
           "ipv4": [
-            "13.249.74.121",
-            "13.249.74.3",
-            "13.249.74.55",
-            "13.249.74.86"
+            "18.160.41.36",
+            "18.160.41.69",
+            "18.160.41.89",
+            "18.160.41.117"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "d8f2pm4haz8u1.cloudfront.net",
           "ipv4": [
-            "18.164.154.123",
-            "18.164.154.84",
-            "18.164.154.94",
-            "18.164.154.96"
+            "3.168.73.10",
+            "3.168.73.51",
+            "3.168.73.93",
+            "3.168.73.109"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -161,10 +164,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -191,6 +194,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -206,10 +210,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -236,6 +240,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -251,10 +256,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -281,6 +286,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com",
         "legacy_active"
@@ -297,10 +303,10 @@
       "ipv4": [
         "34.107.201.223"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -327,6 +333,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -342,10 +349,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -372,6 +379,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -379,18 +387,18 @@
     },
     "api-release-candidate.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "api-release-candidate.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -407,6 +415,7 @@
           "status": "NO_A"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -422,10 +431,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -452,6 +461,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -467,10 +477,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -497,6 +507,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com",
         "legacy_active"
@@ -505,18 +516,18 @@
     },
     "api.console.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "api.console.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -533,6 +544,7 @@
           "status": "NXDOMAIN"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -548,10 +560,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -578,6 +590,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -593,10 +606,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -623,6 +636,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -638,10 +652,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -668,6 +682,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -683,10 +698,10 @@
       "ipv4": [
         "34.120.108.227"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -713,6 +728,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -728,10 +744,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -758,6 +774,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -775,10 +792,10 @@
         "3.136.92.242",
         "18.227.223.115"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -786,31 +803,32 @@
         "1.1.1.1": {
           "canonical_name": "atlantis-sandbox.c.anthropic.com",
           "ipv4": [
-            "18.227.223.115",
             "3.130.143.161",
-            "3.136.92.242"
+            "3.136.92.242",
+            "18.227.223.115"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "atlantis-sandbox.c.anthropic.com",
           "ipv4": [
-            "18.227.223.115",
             "3.130.143.161",
-            "3.136.92.242"
+            "3.136.92.242",
+            "18.227.223.115"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "atlantis-sandbox.c.anthropic.com",
           "ipv4": [
-            "18.227.223.115",
             "3.130.143.161",
-            "3.136.92.242"
+            "3.136.92.242",
+            "18.227.223.115"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -828,10 +846,10 @@
         "3.148.54.199",
         "18.189.116.204"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -839,31 +857,32 @@
         "1.1.1.1": {
           "canonical_name": "atlantis-staging.c.anthropic.com",
           "ipv4": [
-            "18.189.116.204",
+            "3.17.15.237",
             "3.148.54.199",
-            "3.17.15.237"
+            "18.189.116.204"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "atlantis-staging.c.anthropic.com",
           "ipv4": [
-            "18.189.116.204",
+            "3.17.15.237",
             "3.148.54.199",
-            "3.17.15.237"
+            "18.189.116.204"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "atlantis-staging.c.anthropic.com",
           "ipv4": [
-            "18.189.116.204",
+            "3.17.15.237",
             "3.148.54.199",
-            "3.17.15.237"
+            "18.189.116.204"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -881,10 +900,10 @@
         "3.136.53.238",
         "18.216.87.155"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -892,31 +911,32 @@
         "1.1.1.1": {
           "canonical_name": "atlantis.c.anthropic.com",
           "ipv4": [
-            "18.216.87.155",
+            "3.14.101.156",
             "3.136.53.238",
-            "3.14.101.156"
+            "18.216.87.155"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "atlantis.c.anthropic.com",
           "ipv4": [
-            "18.216.87.155",
+            "3.14.101.156",
             "3.136.53.238",
-            "3.14.101.156"
+            "18.216.87.155"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "atlantis.c.anthropic.com",
           "ipv4": [
-            "18.216.87.155",
+            "3.14.101.156",
             "3.136.53.238",
-            "3.14.101.156"
+            "18.216.87.155"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -924,18 +944,18 @@
     },
     "atlas.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "atlas.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -952,6 +972,7 @@
           "status": "NXDOMAIN"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -968,10 +989,10 @@
         "104.18.35.156",
         "172.64.152.100"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1001,6 +1022,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1016,10 +1038,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1046,6 +1068,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1061,10 +1084,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1091,6 +1114,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "legacy_active"
       ],
@@ -1106,10 +1130,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1136,6 +1160,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai",
         "legacy_active"
@@ -1152,10 +1177,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1182,6 +1207,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1197,10 +1223,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1227,6 +1253,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com",
         "legacy_active"
@@ -1243,10 +1270,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1273,6 +1300,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-content:claudeusercontent.com"
       ],
@@ -1288,10 +1316,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1318,6 +1346,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -1325,18 +1354,18 @@
     },
     "console-staging.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "console-staging.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -1353,6 +1382,7 @@
           "status": "NO_A"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1368,10 +1398,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1398,6 +1428,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1413,10 +1444,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1443,6 +1474,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -1458,10 +1490,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1488,6 +1520,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-content:claudeusercontent.com"
       ],
@@ -1503,10 +1536,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1533,6 +1566,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-content:claudeusercontent.com"
       ],
@@ -1548,10 +1582,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1578,6 +1612,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1593,10 +1628,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1623,6 +1658,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -1638,10 +1674,10 @@
       "ipv4": [
         "35.190.46.17"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1668,6 +1704,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai",
         "legacy_active"
@@ -1684,10 +1721,10 @@
       "ipv4": [
         "35.190.46.17"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1714,6 +1751,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -1729,10 +1767,10 @@
       "ipv4": [
         "35.190.119.221"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1759,6 +1797,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -1774,10 +1813,10 @@
       "ipv4": [
         "35.190.119.221"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1804,6 +1843,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -1819,10 +1859,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1849,6 +1889,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -1864,10 +1905,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1894,6 +1935,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1909,10 +1951,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1939,6 +1981,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -1954,10 +1997,10 @@
       "ipv4": [
         "34.111.105.183"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1984,6 +2027,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -1991,18 +2035,18 @@
     },
     "evals.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "evals.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -2019,6 +2063,7 @@
           "status": "NXDOMAIN"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2034,10 +2079,10 @@
       "ipv4": [
         "34.95.86.89"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2064,6 +2109,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2079,10 +2125,10 @@
       "ipv4": [
         "34.160.232.196"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2109,6 +2155,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2124,10 +2171,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2154,6 +2201,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-content:claudeusercontent.com"
       ],
@@ -2169,10 +2217,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2199,6 +2247,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-content:claudeusercontent.com"
       ],
@@ -2214,10 +2263,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2244,6 +2293,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -2259,10 +2309,10 @@
       "ipv4": [
         "34.160.169.154"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2289,6 +2339,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2304,10 +2355,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2334,6 +2385,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2349,10 +2401,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2379,6 +2431,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2394,10 +2447,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2424,6 +2477,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2439,10 +2493,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2469,6 +2523,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2484,10 +2539,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2514,6 +2569,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2529,10 +2585,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2559,6 +2615,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -2574,10 +2631,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2604,6 +2661,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2619,10 +2677,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2649,6 +2707,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com",
         "legacy_active"
@@ -2667,10 +2726,10 @@
         "35.239.79.203",
         "136.113.71.169"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2678,31 +2737,32 @@
         "1.1.1.1": {
           "canonical_name": "aploconnect.com",
           "ipv4": [
-            "136.113.71.169",
             "34.123.83.248",
-            "35.239.79.203"
+            "35.239.79.203",
+            "136.113.71.169"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "aploconnect.com",
           "ipv4": [
-            "136.113.71.169",
             "34.123.83.248",
-            "35.239.79.203"
+            "35.239.79.203",
+            "136.113.71.169"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "aploconnect.com",
           "ipv4": [
-            "136.113.71.169",
             "34.123.83.248",
-            "35.239.79.203"
+            "35.239.79.203",
+            "136.113.71.169"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2716,14 +2776,14 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "microsoft365.mcp.claude.com",
       "ipv4": [
-        "142.250.101.121",
-        "142.251.108.121",
-        "192.178.142.121"
+        "142.251.167.121",
+        "172.253.139.121",
+        "173.194.45.121"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2731,27 +2791,74 @@
         "1.1.1.1": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "192.178.142.121"
+            "142.251.167.121"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "142.251.108.121"
+            "172.253.139.121"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "142.250.101.121"
+            "173.194.45.121"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
+      ],
+      "status": "active"
+    },
+    "mint.identity.anthropic.com": {
+      "canonical_name": "mint.identity.anthropic.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-20T17:46:39Z",
+      "hostname": "mint.identity.anthropic.com",
+      "ipv4": [
+        "34.149.146.142"
+      ],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-20T17:46:39Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "mint.identity.anthropic.com",
+          "ipv4": [
+            "34.149.146.142"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "mint.identity.anthropic.com",
+          "ipv4": [
+            "34.149.146.142"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "mint.identity.anthropic.com",
+          "ipv4": [
+            "34.149.146.142"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "anthropic-core:anthropic.com"
       ],
       "status": "active"
     },
@@ -2766,10 +2873,10 @@
         "104.18.36.24",
         "172.64.151.232"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2799,6 +2906,57 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
+      "sources": [
+        "anthropic-core:anthropic.com"
+      ],
+      "status": "active"
+    },
+    "partner-sso.anthropic.com": {
+      "canonical_name": "cname.workos-dns.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-20T17:46:39Z",
+      "hostname": "partner-sso.anthropic.com",
+      "ipv4": [
+        "104.18.35.233",
+        "172.64.152.23"
+      ],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-20T17:46:39Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "cname.workos-dns.com",
+          "ipv4": [
+            "104.18.35.233",
+            "172.64.152.23"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "cname.workos-dns.com",
+          "ipv4": [
+            "104.18.35.233",
+            "172.64.152.23"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "cname.workos-dns.com",
+          "ipv4": [
+            "104.18.35.233",
+            "172.64.152.23"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2815,10 +2973,10 @@
         "104.20.25.123",
         "172.66.167.209"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2848,6 +3006,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2864,10 +3023,10 @@
         "104.20.25.123",
         "172.66.167.209"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2897,6 +3056,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -2910,18 +3070,22 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "partnerportal.anthropic.com",
       "ipv4": [
-        "23.199.232.70",
-        "23.199.232.85",
-        "23.211.139.196",
-        "23.211.139.206",
-        "23.211.139.210",
-        "69.192.139.75",
-        "69.192.139.96"
+        "23.212.249.196",
+        "23.212.249.199",
+        "23.212.249.200",
+        "23.212.249.201",
+        "23.212.249.203",
+        "23.212.249.205",
+        "23.212.249.210",
+        "23.212.249.213",
+        "23.212.249.218",
+        "23.212.251.78",
+        "23.212.251.79"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2929,29 +3093,36 @@
         "1.1.1.1": {
           "canonical_name": "e78038.dsca.akamaiedge.net",
           "ipv4": [
-            "23.211.139.196",
-            "23.211.139.206",
-            "23.211.139.210"
+            "23.212.251.78",
+            "23.212.251.79"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "e78038.dsca.akamaiedge.net",
           "ipv4": [
-            "69.192.139.75",
-            "69.192.139.96"
+            "23.212.251.78",
+            "23.212.251.79"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "e78038.dsca.akamaiedge.net",
           "ipv4": [
-            "23.199.232.70",
-            "23.199.232.85"
+            "23.212.249.196",
+            "23.212.249.199",
+            "23.212.249.200",
+            "23.212.249.201",
+            "23.212.249.203",
+            "23.212.249.205",
+            "23.212.249.210",
+            "23.212.249.213",
+            "23.212.249.218"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -2967,10 +3138,10 @@
       "ipv4": [
         "34.50.145.103"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2997,6 +3168,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai",
         "legacy_active"
@@ -3013,10 +3185,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3043,6 +3215,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3058,10 +3231,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3088,6 +3261,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com",
         "legacy_active"
@@ -3104,10 +3278,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3134,6 +3308,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3149,10 +3324,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3179,6 +3354,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -3194,10 +3370,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3224,6 +3400,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -3239,10 +3416,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3269,6 +3446,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3284,10 +3462,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3314,6 +3492,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -3329,12 +3508,15 @@
       "ipv4": [
         "3.218.60.163",
         "3.225.84.102",
-        "52.87.137.82"
+        "34.203.151.102",
+        "50.17.149.63",
+        "52.87.137.82",
+        "54.165.113.155"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3342,9 +3524,9 @@
         "1.1.1.1": {
           "canonical_name": "prod-rudolph.he.anthropic.com",
           "ipv4": [
-            "3.218.60.163",
-            "3.225.84.102",
-            "52.87.137.82"
+            "34.203.151.102",
+            "50.17.149.63",
+            "54.165.113.155"
           ],
           "status": "OK"
         },
@@ -3367,6 +3549,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3382,10 +3565,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3412,6 +3595,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -3427,10 +3611,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3457,6 +3641,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3472,10 +3657,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3502,6 +3687,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -3518,10 +3704,10 @@
         "199.60.103.2",
         "199.60.103.254"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3551,6 +3737,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3566,10 +3753,10 @@
       "ipv4": [
         "34.54.194.141"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3596,160 +3783,179 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
       "status": "active"
     },
     "sandbox-chs2.staging.api.anthropic.com": {
-      "canonical_name": "sandbox-chs2.staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "sandbox-chs2.staging.api.anthropic.com",
-      "ipv4": [
-        "242.243.0.66"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "sandbox-chs2.staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.66"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "sandbox-chs2.staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.66"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "sandbox-chs2.staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.66"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "sandbox.api.anthropic.com": {
-      "canonical_name": "sandbox.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "sandbox.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.8"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "sandbox.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.8"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "sandbox.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.8"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "sandbox.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.8"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "sandbox.staging.api.anthropic.com": {
-      "canonical_name": "sandbox.staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "sandbox.staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.117"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "sandbox.staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.117"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "sandbox.staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.117"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "sandbox.staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.117"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "slack-channel.mcp.claude.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "slack-channel.mcp.claude.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3766,6 +3972,7 @@
           "status": "NXDOMAIN"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -3781,10 +3988,10 @@
       "ipv4": [
         "34.110.210.69"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3811,6 +4018,53 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
+      "sources": [
+        "anthropic-core:anthropic.com"
+      ],
+      "status": "active"
+    },
+    "sso-metadata.anthropic.com": {
+      "canonical_name": "sso-metadata.anthropic.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-20T17:46:39Z",
+      "hostname": "sso-metadata.anthropic.com",
+      "ipv4": [
+        "136.68.118.212"
+      ],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-20T17:46:39Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "sso-metadata.anthropic.com",
+          "ipv4": [
+            "136.68.118.212"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "sso-metadata.anthropic.com",
+          "ipv4": [
+            "136.68.118.212"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "sso-metadata.anthropic.com",
+          "ipv4": [
+            "136.68.118.212"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3826,10 +4080,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3856,6 +4110,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -3871,10 +4126,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3901,6 +4156,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -3916,10 +4172,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3946,25 +4202,72 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-content:claudeusercontent.com"
       ],
       "status": "active"
     },
+    "staging.identity.anthropic.com": {
+      "canonical_name": "staging.identity.anthropic.com",
+      "consecutive_negative_checks": 0,
+      "ever_validated": true,
+      "expired_at": null,
+      "first_seen": "2026-08-20T17:46:39Z",
+      "hostname": "staging.identity.anthropic.com",
+      "ipv4": [
+        "34.111.26.53"
+      ],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_negative": null,
+      "last_result": "OK",
+      "last_success": "2026-08-20T17:46:39Z",
+      "negative_observations": 0,
+      "negative_since": null,
+      "quarantined_at": null,
+      "resolver_results": {
+        "1.1.1.1": {
+          "canonical_name": "staging.identity.anthropic.com",
+          "ipv4": [
+            "34.111.26.53"
+          ],
+          "status": "OK"
+        },
+        "8.8.8.8": {
+          "canonical_name": "staging.identity.anthropic.com",
+          "ipv4": [
+            "34.111.26.53"
+          ],
+          "status": "OK"
+        },
+        "9.9.9.9": {
+          "canonical_name": "staging.identity.anthropic.com",
+          "ipv4": [
+            "34.111.26.53"
+          ],
+          "status": "OK"
+        }
+      },
+      "safety_reason": null,
+      "sources": [
+        "anthropic-core:anthropic.com"
+      ],
+      "status": "active"
+    },
     "staging.tunnel.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "staging.tunnel.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -3981,6 +4284,7 @@
           "status": "NO_A"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -3996,10 +4300,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4026,6 +4330,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -4039,19 +4344,19 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "status.claude.com",
       "ipv4": [
-        "3.168.86.64",
-        "3.168.86.72",
-        "3.168.86.83",
-        "3.168.86.126",
-        "99.84.215.34",
-        "99.84.215.72",
-        "99.84.215.89",
-        "99.84.215.115"
+        "3.171.61.27",
+        "3.171.61.83",
+        "3.171.61.103",
+        "3.171.61.114",
+        "99.84.160.2",
+        "99.84.160.7",
+        "99.84.160.71",
+        "99.84.160.76"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4059,1478 +4364,1671 @@
         "1.1.1.1": {
           "canonical_name": "tymt9n04zgry.stspg-customer.com",
           "ipv4": [
-            "3.168.86.126",
-            "3.168.86.64",
-            "3.168.86.72",
-            "3.168.86.83"
+            "3.171.61.27",
+            "3.171.61.83",
+            "3.171.61.103",
+            "3.171.61.114"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "tymt9n04zgry.stspg-customer.com",
           "ipv4": [
-            "3.168.86.126",
-            "3.168.86.64",
-            "3.168.86.72",
-            "3.168.86.83"
+            "3.171.61.27",
+            "3.171.61.83",
+            "3.171.61.103",
+            "3.171.61.114"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "tymt9n04zgry.stspg-customer.com",
           "ipv4": [
-            "99.84.215.115",
-            "99.84.215.34",
-            "99.84.215.72",
-            "99.84.215.89"
+            "99.84.160.2",
+            "99.84.160.7",
+            "99.84.160.71",
+            "99.84.160.76"
           ],
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
       "status": "active"
     },
     "stt-flux-a100.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-flux-a100.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-a100.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-a100.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-a100.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-a100.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux-a100.titanium.api.anthropic.com": {
-      "canonical_name": "stt-flux-a100.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-a100.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-a100.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-a100.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-a100.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux-multi-a100.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-flux-multi-a100.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi-a100.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-multi-a100.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-multi-a100.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-multi-a100.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux-multi-a100.titanium.api.anthropic.com": {
-      "canonical_name": "stt-flux-multi-a100.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi-a100.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-multi-a100.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-multi-a100.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-multi-a100.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux-multi-chs2.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-flux-multi-chs2.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi-chs2.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "242.243.0.68"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-multi-chs2.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.68"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-multi-chs2.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.68"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-multi-chs2.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.68"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux-multi-chs2.titanium.api.anthropic.com": {
-      "canonical_name": "stt-flux-multi-chs2.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi-chs2.titanium.api.anthropic.com",
-      "ipv4": [
-        "242.243.0.69"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-multi-chs2.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.69"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-multi-chs2.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.69"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-multi-chs2.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "242.243.0.69"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux-multi.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-flux-multi.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-multi.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-multi.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-multi.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux-multi.titanium.api.anthropic.com": {
-      "canonical_name": "stt-flux-multi.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux-multi.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux-multi.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux-multi.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-flux.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-flux.titanium.api.anthropic.com": {
-      "canonical_name": "stt-flux.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-flux.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-flux.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-flux.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s0.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s0.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s0.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s0.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s0.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s0.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s0.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s0.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s0.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s0.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s0.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s0.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s1.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s1.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s1.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s1.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s1.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s1.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s1.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s1.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s1.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s1.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s1.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s1.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s2.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s2.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s2.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s2.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s2.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s2.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s2.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s2.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s2.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s2.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s2.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s2.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s3.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s3.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s3.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s3.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s3.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s3.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s3.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s3.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s3.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s3.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s3.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s3.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s4.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s4.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s4.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s4.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s4.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s4.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s4.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s4.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s4.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s4.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s4.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s4.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s5.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s5.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s5.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s5.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s5.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s5.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s5.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s5.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s5.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s5.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s5.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s5.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s6.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s6.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s6.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s6.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s6.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s6.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s6.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s6.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s6.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s6.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s6.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s6.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s7.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s7.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s7.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s7.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s7.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s7.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s7.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s7.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s7.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s7.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s7.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s7.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s8.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s8.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s8.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s8.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s8.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s8.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3-s8.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3-s8.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s8.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3-s8.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3-s8.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3-s8.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt-nova3.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt-nova3.titanium.api.anthropic.com": {
-      "canonical_name": "stt-nova3.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt-nova3.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt-nova3.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt-nova3.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt.titanium-staging.api.anthropic.com": {
-      "canonical_name": "stt.titanium-staging.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt.titanium-staging.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.5"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt.titanium-staging.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.5"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "stt.titanium.api.anthropic.com": {
-      "canonical_name": "stt.titanium.api.anthropic.com",
-      "consecutive_negative_checks": 0,
+      "canonical_name": null,
+      "consecutive_negative_checks": 1,
       "ever_validated": true,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt.titanium.api.anthropic.com",
-      "ipv4": [
-        "10.104.0.6"
-      ],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_negative": null,
-      "last_result": "OK",
+      "ipv4": [],
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
+      "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 0,
-      "negative_since": null,
-      "quarantined_at": null,
+      "negative_observations": 1,
+      "negative_since": "2026-08-20T17:46:39Z",
+      "quarantined_at": "2026-08-20T17:46:39Z",
       "resolver_results": {
         "1.1.1.1": {
           "canonical_name": "stt.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "8.8.8.8": {
           "canonical_name": "stt.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         },
         "9.9.9.9": {
           "canonical_name": "stt.titanium.api.anthropic.com",
-          "ipv4": [
+          "detail": "A records exist, but none are public unicast IPv4 addresses",
+          "ipv4": [],
+          "non_global_ipv4": [
             "10.104.0.6"
           ],
-          "status": "OK"
+          "status": "NON_GLOBAL_A"
         }
       },
+      "safety_reason": "NON_GLOBAL_A",
       "sources": [
         "anthropic-core:anthropic.com"
       ],
-      "status": "active"
+      "status": "quarantine"
     },
     "support.anthropic.com": {
       "canonical_name": "support.anthropic.com",
@@ -5542,10 +6040,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5572,6 +6070,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -5587,10 +6086,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5617,6 +6116,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -5632,10 +6132,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5662,6 +6162,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -5677,10 +6178,10 @@
       "ipv4": [
         "136.69.73.82"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5707,6 +6208,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -5722,10 +6224,10 @@
       "ipv4": [
         "136.69.73.82"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5752,6 +6254,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -5768,10 +6271,10 @@
         "104.18.26.175",
         "104.18.27.175"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5801,6 +6304,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -5808,18 +6312,18 @@
     },
     "tunnel.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 1,
+      "consecutive_negative_checks": 2,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "tunnel.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-08-20T17:28:27Z",
-      "last_failure": "2026-08-20T17:28:27Z",
-      "last_negative": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
+      "last_failure": "2026-08-20T17:46:39Z",
+      "last_negative": "2026-08-20T17:46:39Z",
       "last_result": "NEGATIVE",
       "last_success": null,
-      "negative_observations": 1,
+      "negative_observations": 2,
       "negative_since": "2026-08-20T17:28:27Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -5836,6 +6340,7 @@
           "status": "NO_A"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -5851,10 +6356,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5881,6 +6386,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -5896,10 +6402,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5926,6 +6432,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -5941,10 +6448,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5971,6 +6478,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -5986,10 +6494,10 @@
       "ipv4": [
         "198.202.211.1"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6016,6 +6524,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -6031,10 +6540,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6061,6 +6570,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -6076,10 +6586,10 @@
       "ipv4": [
         "198.202.211.1"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6106,6 +6616,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -6121,10 +6632,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6151,6 +6662,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -6166,10 +6678,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6196,6 +6708,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "anthropic-core:anthropic.com"
       ],
@@ -6211,10 +6724,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6241,6 +6754,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.ai"
       ],
@@ -6256,10 +6770,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6286,6 +6800,7 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-product:claude.com"
       ],
@@ -6301,10 +6816,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-08-20T17:28:27Z",
+      "last_check": "2026-08-20T17:46:39Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-08-20T17:28:27Z",
+      "last_success": "2026-08-20T17:46:39Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6331,12 +6846,13 @@
           "status": "OK"
         }
       },
+      "safety_reason": null,
       "sources": [
         "claude-content:claudeusercontent.com"
       ],
       "status": "active"
     }
   },
-  "updated_at": "2026-08-20T17:28:27Z",
+  "updated_at": "2026-08-20T17:46:39Z",
   "version": 2
 }
