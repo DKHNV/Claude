@@ -58,6 +58,7 @@ partnerhub.anthropic.com
 partnerhub.claude.com
 partnerportal.anthropic.com
 pivot.claude.ai
+plaid.mcp.claude.com
 platform.anthropic.com
 platform.claude.com
 portal.anthropic.com
