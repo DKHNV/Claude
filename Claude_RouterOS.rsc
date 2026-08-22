@@ -1,5 +1,6 @@
 /ip firewall address-list
 
+add list=claude address=2.21.240.0/24 comment=claude
 add list=claude address=3.14.101.0/24 comment=claude
 add list=claude address=3.17.15.0/24 comment=claude
 add list=claude address=3.130.143.0/24 comment=claude
@@ -7,11 +8,11 @@ add list=claude address=3.136.53.0/24 comment=claude
 add list=claude address=3.136.92.0/24 comment=claude
 add list=claude address=3.148.54.0/24 comment=claude
 add list=claude address=3.174.18.0/24 comment=claude
-add list=claude address=3.218.60.0/24 comment=claude
-add list=claude address=3.225.84.0/24 comment=claude
 add list=claude address=18.189.116.0/24 comment=claude
 add list=claude address=18.216.87.0/24 comment=claude
 add list=claude address=18.227.223.0/24 comment=claude
+add list=claude address=23.3.90.0/24 comment=claude
+add list=claude address=32.194.112.0/24 comment=claude
 add list=claude address=34.36.57.0/24 comment=claude
 add list=claude address=34.50.145.0/24 comment=claude
 add list=claude address=34.54.194.0/24 comment=claude
@@ -28,7 +29,11 @@ add list=claude address=34.160.232.0/24 comment=claude
 add list=claude address=35.190.46.0/24 comment=claude
 add list=claude address=35.190.119.0/24 comment=claude
 add list=claude address=35.239.79.0/24 comment=claude
-add list=claude address=44.205.66.0/24 comment=claude
+add list=claude address=44.220.100.0/24 comment=claude
+add list=claude address=50.17.149.0/24 comment=claude
+add list=claude address=52.55.237.0/24 comment=claude
+add list=claude address=54.88.151.0/24 comment=claude
+add list=claude address=100.52.136.0/24 comment=claude
 add list=claude address=104.18.26.0/23 comment=claude
 add list=claude address=104.18.35.0/24 comment=claude
 add list=claude address=104.18.36.0/24 comment=claude
