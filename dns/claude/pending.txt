@@ -1,8 +1,0 @@
-api-release-candidate.anthropic.com
-api.console.anthropic.com
-atlas.anthropic.com
-console-staging.anthropic.com
-evals.anthropic.com
-slack-channel.mcp.claude.com
-staging.tunnel.anthropic.com
-tunnel.anthropic.com

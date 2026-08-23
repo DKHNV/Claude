@@ -1,14 +1,14 @@
 # Claude DNS Maintenance Report
 
-Generated: `2026-08-23T15:02:33Z`
+Generated: `2026-08-23T21:01:47Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
 | Active | 102 |
-| Pending | 8 |
-| Suspect | 0 |
+| Pending | 0 |
+| Suspect | 8 |
 | Quarantine | 35 |
 | Expired | 0 |
 
@@ -17,8 +17,8 @@ Generated: `2026-08-23T15:02:33Z`
 | State | Hosts |
 |---|---:|
 | Alive | 99 |
-| Unknown | 38 |
-| Suspect | 0 |
+| Unknown | 35 |
+| Suspect | 3 |
 | Dead | 0 |
 
 ## Stability window
@@ -38,9 +38,9 @@ Average stability: **72.3%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `atlantis-sandbox.c.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 14 | TIMEOUT | 18.188.223.71, 18.227.223.115, 3.130.143.161 | 0.0 | 14 |
-| `atlantis-staging.c.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 14 | TIMEOUT | 18.189.116.204, 3.148.54.199, 3.17.15.237 | 0.0 | 14 |
-| `atlantis.c.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 14 | TIMEOUT | 18.216.87.155, 3.136.53.238, 3.14.101.156 | 0.0 | 14 |
+| `atlantis-sandbox.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 15 | TIMEOUT | 18.188.223.71, 3.130.143.161, 3.138.210.249 | 0.0 | 15 |
+| `atlantis-staging.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 15 | TIMEOUT | 18.189.116.204, 3.148.54.199, 3.17.15.237 | 0.0 | 15 |
+| `atlantis.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 15 | TIMEOUT | 18.216.87.155, 3.136.53.238, 3.14.101.156 | 0.0 | 15 |
 | `sandbox-chs2.staging.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 242.243.0.66 | 0.0 | 1 |
 | `sandbox.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 10.104.0.8 | 0.0 | 1 |
 | `sandbox.staging.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 10.104.0.117 | 0.0 | 1 |
@@ -79,7 +79,7 @@ Average stability: **72.3%**
 
 ## Discovery
 
-Discovery state updated: `2026-08-23T15:02:33Z`
+Discovery state updated: `2026-08-23T21:01:47Z`
 
 ## Notes
 
