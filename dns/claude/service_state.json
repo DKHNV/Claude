@@ -152,19 +152,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "a-api.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -320,19 +328,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "34.36.57.103",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "a-cdn.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.36.57.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -488,13 +504,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "18.160.41.117",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "a-cdn.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "18.160.41.117",
@@ -502,7 +526,7 @@
         "18.160.41.69"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -658,19 +682,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "academy.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -826,19 +858,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "alignment.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -994,19 +1034,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1162,19 +1210,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 502,
+          "ip": "34.107.201.223",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "api-backend-frontend.n.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.107.201.223"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1330,19 +1386,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 401,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "api-release-candidate-2.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1498,19 +1562,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "api-staging.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1666,19 +1738,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "api.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -1834,19 +1914,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "assets-proxy.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2002,19 +2090,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "assets-staging.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2170,19 +2266,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "assets.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2338,19 +2442,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "34.120.108.227",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "assets.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.120.108.227"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2506,19 +2618,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "assets.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -2543,9 +2663,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "ever_alive": false,
-      "failure_observations": 17,
+      "failure_observations": 18,
       "failure_since": "2026-08-20T17:28:27Z",
       "first_seen": "2026-08-20T17:28:27Z",
       "history": [
@@ -2684,15 +2804,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 17,
-      "history_samples": 17,
+      "history_failures": 18,
+      "history_samples": 18,
       "history_successes": 0,
       "hostname": "atlantis-sandbox.c.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": {
-        "at": "2026-08-24T09:31:01Z",
+        "at": "2026-08-24T15:24:09Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2749,9 +2877,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "ever_alive": false,
-      "failure_observations": 17,
+      "failure_observations": 18,
       "failure_since": "2026-08-20T17:28:27Z",
       "first_seen": "2026-08-20T17:28:27Z",
       "history": [
@@ -2890,15 +3018,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 17,
-      "history_samples": 17,
+      "history_failures": 18,
+      "history_samples": 18,
       "history_successes": 0,
       "hostname": "atlantis-staging.c.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": {
-        "at": "2026-08-24T09:31:01Z",
+        "at": "2026-08-24T15:24:09Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -2955,9 +3091,9 @@
           "status": "TIMEOUT"
         }
       ],
-      "consecutive_failures": 17,
+      "consecutive_failures": 18,
       "ever_alive": false,
-      "failure_observations": 17,
+      "failure_observations": 18,
       "failure_since": "2026-08-20T17:28:27Z",
       "first_seen": "2026-08-20T17:28:27Z",
       "history": [
@@ -3096,15 +3232,23 @@
             "TIMEOUT"
           ],
           "type": "TIMEOUT"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "result": "FAILURE",
+          "statuses": [
+            "TIMEOUT"
+          ],
+          "type": "TIMEOUT"
         }
       ],
-      "history_failures": 17,
-      "history_samples": 17,
+      "history_failures": 18,
+      "history_samples": 18,
       "history_successes": 0,
       "hostname": "atlantis.c.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": {
-        "at": "2026-08-24T09:31:01Z",
+        "at": "2026-08-24T15:24:09Z",
         "attempts": [
           {
             "detail": "timed out",
@@ -3292,20 +3436,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 204,
+          "ip": "104.18.35.156",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "billing.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.156",
         "172.64.152.100"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3461,19 +3613,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 405,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "brand.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3629,19 +3789,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 426,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "bridge.claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3797,19 +3965,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -3965,19 +4141,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "claude.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4133,19 +4317,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4301,19 +4493,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4469,19 +4669,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "code.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4637,19 +4845,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "console.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4805,19 +5021,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "console.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -4946,13 +5170,18 @@
           "at": "2026-08-24T09:31:01Z",
           "result": "SKIPPED",
           "type": "DNS_SKIPPED"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "result": "SKIPPED",
+          "type": "DNS_SKIPPED"
         }
       ],
       "history_failures": 0,
       "history_samples": 11,
       "history_successes": 11,
       "hostname": "conway.claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [],
       "last_result": "SKIPPED",
@@ -5112,19 +5341,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "conway.staging.claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5280,19 +5517,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "docs.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5448,19 +5693,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "docs.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5616,19 +5869,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "35.190.46.17",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "downloads.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "35.190.46.17"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5784,19 +6045,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "35.190.46.17",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "downloads.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "35.190.46.17"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -5952,19 +6221,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "35.190.119.221",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "downloads.preview.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "35.190.119.221"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6120,19 +6397,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "35.190.119.221",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "downloads.preview.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "35.190.119.221"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6288,19 +6573,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "eap-academy.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6456,19 +6749,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "earlyaccess.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6624,19 +6925,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "econ-index.mcp.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6792,19 +7101,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "34.111.105.183",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "economic-research.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.111.105.183"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -6960,19 +7277,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 405,
+          "ip": "34.95.86.89",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "events.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.95.86.89"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7128,19 +7453,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "34.160.232.196",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "feedback.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.160.232.196"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7296,19 +7629,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "frame.claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7464,19 +7805,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "frame.staging.claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7632,19 +7981,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "hcls.mcp.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7800,19 +8157,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "34.160.169.154",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "identity.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.160.169.154"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -7968,19 +8333,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 303,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "ilinks.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8136,19 +8509,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "institute.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8304,19 +8685,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "internal.api.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8472,19 +8861,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "legal.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8640,19 +9037,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 303,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "links.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8808,19 +9213,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 303,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "links.email.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -8976,19 +9389,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "mcp-proxy-staging.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9144,19 +9565,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "mcp-proxy.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9312,13 +9741,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "136.113.71.169",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "metrics.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "136.113.71.169",
@@ -9326,7 +9763,7 @@
         "35.239.79.203"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9335,7 +9772,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 200,
-          "ip": "142.251.16.121",
+          "ip": "142.250.31.121",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -9482,21 +9919,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "142.250.31.121",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "microsoft365.mcp.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
-        "142.251.16.121",
-        "192.178.155.121",
-        "64.233.180.121"
+        "142.250.31.121",
+        "142.251.163.121",
+        "173.194.45.121"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9644,19 +10089,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "34.149.146.142",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 16,
-      "history_successes": 16,
+      "history_samples": 17,
+      "history_successes": 17,
       "hostname": "mint.identity.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.149.146.142"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9812,20 +10265,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "104.18.36.24",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "notebook.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.36.24",
         "172.64.151.232"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -9973,20 +10434,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 307,
+          "ip": "104.18.35.233",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 16,
-      "history_successes": 16,
+      "history_samples": 17,
+      "history_successes": 17,
       "hostname": "partner-sso.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.35.233",
         "172.64.152.23"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10142,20 +10611,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "104.20.25.123",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "partnerhub.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.123",
         "172.66.167.209"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10311,20 +10788,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "104.20.25.123",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "partnerhub.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "104.20.25.123",
         "172.66.167.209"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10333,7 +10818,7 @@
         {
           "cipher": "TLS_AES_256_GCM_SHA384",
           "http_status": 301,
-          "ip": "23.53.35.144",
+          "ip": "23.212.251.79",
           "port": 443,
           "status": "HTTPS_OK",
           "tls_version": "TLSv1.3"
@@ -10480,21 +10965,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "23.212.251.79",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "partnerportal.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
-        "23.53.35.144",
-        "23.53.35.145",
-        "23.73.207.137"
+        "23.212.251.79",
+        "23.212.251.91",
+        "23.48.203.135"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10650,19 +11143,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "34.50.145.103",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "pivot.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.50.145.103"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10778,19 +11279,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 421,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 12,
-      "history_successes": 12,
+      "history_samples": 13,
+      "history_successes": 13,
       "hostname": "plaid.mcp.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -10946,19 +11455,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "platform.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11114,19 +11631,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "platform.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11282,19 +11807,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 307,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "portal.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11450,19 +11983,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "preview.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11618,19 +12159,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "preview.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11786,19 +12335,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "privacy.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -11954,19 +12511,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "privacy.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12122,21 +12687,29 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 400,
+          "ip": "3.232.216.68",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "prod-rudolph.he.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "3.232.216.68",
         "34.203.103.218",
-        "44.220.100.35"
+        "34.234.122.36"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12292,19 +12865,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "pubmed.mcp.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12460,19 +13041,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "red.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12628,19 +13217,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "releases.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12796,20 +13393,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "199.60.103.2",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "resources.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "199.60.103.2",
         "199.60.103.254"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -12965,19 +13570,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "34.54.194.141",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "s-cdn.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.54.194.141"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13289,19 +13902,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "34.110.210.69",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "slackbot.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.110.210.69"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13449,19 +14070,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "136.68.118.212",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 16,
-      "history_successes": 16,
+      "history_samples": 17,
+      "history_successes": 17,
       "hostname": "sso-metadata.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "136.68.118.212"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13617,19 +14246,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "staging.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13784,19 +14421,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "staging.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -13952,19 +14597,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "staging.claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14112,19 +14765,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 403,
+          "ip": "34.111.26.53",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 16,
-      "history_successes": 16,
+      "history_samples": 17,
+      "history_successes": 17,
       "hostname": "staging.identity.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "34.111.26.53"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14280,19 +14941,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "status.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -14448,13 +15117,21 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "3.171.61.103",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "status.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "3.171.61.103",
@@ -14462,7 +15139,7 @@
         "3.171.61.27"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16282,19 +16959,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "support.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16450,19 +17135,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "support.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16618,19 +17311,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "tai.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16786,19 +17487,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "136.69.73.82",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "tidewater.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "136.69.73.82"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -16954,19 +17663,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 302,
+          "ip": "136.69.73.82",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "tidewater.preview.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "136.69.73.82"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17122,20 +17839,28 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "104.18.26.175",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "trust.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "104.18.26.175",
         "104.18.27.175"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17291,19 +18016,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "url6377.updates.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17459,19 +18192,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "url6646.mail.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17627,19 +18368,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "url8792.mail.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17795,19 +18544,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "198.202.211.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "website.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "198.202.211.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -17963,19 +18720,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "website.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18131,19 +18896,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "198.202.211.1",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "websitemain.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "198.202.211.1"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18299,19 +19072,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 404,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "www-cdn.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18467,19 +19248,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "www.anthropic.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18635,19 +19424,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "www.claude.ai",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18803,19 +19600,27 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 301,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "www.claude.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     },
@@ -18971,23 +19776,31 @@
           "result": "ALIVE",
           "tls_version": "TLSv1.3",
           "type": "HTTPS_OK"
+        },
+        {
+          "at": "2026-08-24T15:24:09Z",
+          "http_status": 200,
+          "ip": "160.79.104.10",
+          "result": "ALIVE",
+          "tls_version": "TLSv1.3",
+          "type": "HTTPS_OK"
         }
       ],
       "history_failures": 0,
-      "history_samples": 17,
-      "history_successes": 17,
+      "history_samples": 18,
+      "history_successes": 18,
       "hostname": "www.claudeusercontent.com",
-      "last_check": "2026-08-24T09:31:01Z",
+      "last_check": "2026-08-24T15:24:09Z",
       "last_failure": null,
       "last_ipv4": [
         "160.79.104.10"
       ],
       "last_result": "ALIVE",
-      "last_success": "2026-08-24T09:31:01Z",
+      "last_success": "2026-08-24T15:24:09Z",
       "stability_score": 100.0,
       "status": "alive"
     }
   },
-  "updated_at": "2026-08-24T09:31:01Z",
+  "updated_at": "2026-08-24T15:24:09Z",
   "version": 3
 }
