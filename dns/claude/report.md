@@ -1,12 +1,12 @@
 # Claude DNS Maintenance Report
 
-Generated: `2026-08-24T21:13:50Z`
+Generated: `2026-08-25T03:33:55Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 102 |
+| Active | 104 |
 | Pending | 0 |
 | Suspect | 8 |
 | Quarantine | 35 |
@@ -16,7 +16,7 @@ Generated: `2026-08-24T21:13:50Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 99 |
+| Alive | 101 |
 | Unknown | 35 |
 | Suspect | 3 |
 | Dead | 0 |
@@ -25,8 +25,8 @@ Generated: `2026-08-24T21:13:50Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **137**
-Average stability: **72.3%**
+Measured hosts: **139**
+Average stability: **72.7%**
 
 ## Current HTTPS/TLS failures
 
@@ -38,9 +38,9 @@ Average stability: **72.3%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `atlantis-sandbox.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 19 | TIMEOUT | 18.188.223.71, 18.227.115.25, 3.138.210.249 | 0.0 | 19 |
-| `atlantis-staging.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 19 | TIMEOUT | 18.189.116.204, 3.148.54.199, 3.17.15.237 | 0.0 | 19 |
-| `atlantis.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 19 | TIMEOUT | 18.216.87.155, 3.136.53.238, 3.14.101.156 | 0.0 | 19 |
+| `atlantis-sandbox.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 20 | TIMEOUT | 18.188.223.71, 18.227.115.25, 3.138.210.249 | 0.0 | 20 |
+| `atlantis-staging.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 20 | TIMEOUT | 18.189.116.204, 3.148.54.199, 3.17.15.237 | 0.0 | 20 |
+| `atlantis.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 20 | TIMEOUT | 18.216.87.155, 3.136.53.238, 3.14.101.156 | 0.0 | 20 |
 | `sandbox-chs2.staging.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 242.243.0.66 | 0.0 | 1 |
 | `sandbox.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 10.104.0.8 | 0.0 | 1 |
 | `sandbox.staging.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 10.104.0.117 | 0.0 | 1 |
@@ -79,7 +79,7 @@ Average stability: **72.3%**
 
 ## Discovery
 
-Discovery state updated: `2026-08-24T21:13:50Z`
+Discovery state updated: `2026-08-25T03:33:55Z`
 
 ## Notes
 

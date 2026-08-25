@@ -2,27 +2,27 @@
   "sources": {
     "certspotter": {
       "anthropic.com": {
-        "after": 16747303400,
+        "after": 16755484218,
         "caught_up": true,
-        "last_poll": "2026-08-24T21:13:50Z"
+        "last_poll": "2026-08-25T03:33:55Z"
       },
       "claude.ai": {
         "after": 16734704422,
         "caught_up": true,
-        "last_poll": "2026-08-24T21:13:50Z"
+        "last_poll": "2026-08-25T03:33:55Z"
       },
       "claude.com": {
-        "after": 16732638439,
+        "after": 16755483992,
         "caught_up": true,
-        "last_poll": "2026-08-24T21:13:50Z"
+        "last_poll": "2026-08-25T03:33:55Z"
       },
       "claudeusercontent.com": {
         "after": 16275365363,
         "caught_up": true,
-        "last_poll": "2026-08-24T21:13:50Z"
+        "last_poll": "2026-08-25T03:33:55Z"
       }
     }
   },
-  "updated_at": "2026-08-24T21:13:50Z",
+  "updated_at": "2026-08-25T03:33:55Z",
   "version": 2
 }
