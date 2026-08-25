@@ -1,18 +1,18 @@
 /ip firewall address-list
 
-add list=claude address=2.21.240.0/24 comment=claude
 add list=claude address=3.14.101.0/24 comment=claude
 add list=claude address=3.17.15.0/24 comment=claude
 add list=claude address=3.136.53.0/24 comment=claude
 add list=claude address=3.138.210.0/24 comment=claude
-add list=claude address=3.148.54.0/24 comment=claude
 add list=claude address=3.174.18.0/24 comment=claude
-add list=claude address=3.232.216.0/24 comment=claude
+add list=claude address=18.66.192.0/24 comment=claude
+add list=claude address=18.67.13.0/24 comment=claude
 add list=claude address=18.188.223.0/24 comment=claude
 add list=claude address=18.189.116.0/24 comment=claude
 add list=claude address=18.216.87.0/24 comment=claude
+add list=claude address=18.224.178.0/24 comment=claude
 add list=claude address=18.227.115.0/24 comment=claude
-add list=claude address=23.3.90.0/24 comment=claude
+add list=claude address=18.227.184.0/24 comment=claude
 add list=claude address=34.36.57.0/24 comment=claude
 add list=claude address=34.50.145.0/24 comment=claude
 add list=claude address=34.54.194.0/24 comment=claude
@@ -32,6 +32,7 @@ add list=claude address=35.190.119.0/24 comment=claude
 add list=claude address=35.239.79.0/24 comment=claude
 add list=claude address=44.220.100.0/24 comment=claude
 add list=claude address=50.17.149.0/24 comment=claude
+add list=claude address=52.22.116.0/24 comment=claude
 add list=claude address=52.55.237.0/24 comment=claude
 add list=claude address=54.88.151.0/24 comment=claude
 add list=claude address=80.239.254.0/24 comment=claude
@@ -39,6 +40,7 @@ add list=claude address=104.18.26.0/23 comment=claude
 add list=claude address=104.18.35.0/24 comment=claude
 add list=claude address=104.18.36.0/24 comment=claude
 add list=claude address=104.20.25.0/24 comment=claude
+add list=claude address=104.84.152.0/24 comment=claude
 add list=claude address=136.68.118.0/24 comment=claude
 add list=claude address=136.69.73.0/24 comment=claude
 add list=claude address=136.113.71.0/24 comment=claude
