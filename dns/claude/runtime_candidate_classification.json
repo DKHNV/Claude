@@ -1,19 +1,19 @@
 {
   "candidates": {
     "3cce2a0ac94a83ee78e100df042c5d16b5d345834763eb38b7241d10600e0690": {
-      "classified_at": "2026-08-28T18:59:18Z",
+      "classified_at": "2026-08-28T23:43:07Z",
       "decision": "observe_only",
       "evidence": {
-        "active_cycles": 1,
+        "active_cycles": 6,
         "current_presence": true,
-        "current_routing_status": "active",
+        "current_routing_status": "expired",
         "exact_dns_present": true,
         "exact_dns_status": "active",
         "feed_present": true,
-        "observation_count": 1,
+        "observation_count": 2,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 1,
+        "presence_cycles": 28,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -23,7 +23,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-08-28T18:59:18Z",
+  "classified_at": "2026-08-28T23:43:07Z",
   "counts": {
     "candidate": 0,
     "observe_only": 1,
@@ -32,8 +32,8 @@
   },
   "mode": "shadow",
   "service": "claude",
-  "source_content_hash": "994a1da36b0b864198e1b2c55a0f3d53dfdf2cc87a1ab32d6e69161e24fe9bab",
-  "source_generated_at": "2026-08-28T18:41:05Z",
-  "source_last_intake_at": "2026-08-28T18:59:18Z",
+  "source_content_hash": "8f96a6533e1d1e4e655bacc1fd4d130b4b5932af30853b7f3d9e05ada6a96f61",
+  "source_generated_at": "2026-08-28T20:56:24Z",
+  "source_last_intake_at": "2026-08-28T23:43:07Z",
   "version": 1
 }
