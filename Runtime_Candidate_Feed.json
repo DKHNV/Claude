@@ -1,0 +1,30 @@
+{
+  "candidates": [
+    {
+      "active_cycles": 1,
+      "candidate_id": "3cce2a0ac94a83ee78e100df042c5d16b5d345834763eb38b7241d10600e0690",
+      "current_presence": true,
+      "current_routing_status": "active",
+      "first_observed": "2026-08-28T18:41:05Z",
+      "hostname": "assets.claude.ai",
+      "id_version": 1,
+      "last_external_at": "2026-08-28T18:35:54Z",
+      "last_observed": "2026-08-28T18:41:05Z",
+      "observation_count": 1,
+      "presence_cycles": 1,
+      "reactivation_count": 0,
+      "seen_dates": [
+        "2026-08-28"
+      ],
+      "state": "observed",
+      "suffix": "claude.ai"
+    }
+  ],
+  "content_hash": "994a1da36b0b864198e1b2c55a0f3d53dfdf2cc87a1ab32d6e69161e24fe9bab",
+  "generated_at": "2026-08-28T18:41:05Z",
+  "hash_algorithm": "sha256",
+  "history_scope": "since_analytics_start",
+  "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
+  "schema_version": 1,
+  "service": "claude"
+}
