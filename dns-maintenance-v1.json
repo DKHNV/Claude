@@ -41,6 +41,15 @@
       "name": "claude",
       "active_file": "Claude_DNS",
       "data_dir": "dns/claude",
+      "runtime_candidate": {
+        "enabled": true,
+        "classification": {
+          "enabled": true,
+          "candidate_eligibility": {
+            "enabled": true,
+            "min_seen_days": 2,
+            "min_observation_count": 2
+          },
       "discovery": {
         "enabled": true,
         "sources": [
