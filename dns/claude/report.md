@@ -1,6 +1,6 @@
 # Claude DNS Maintenance Report
 
-Generated: `2026-08-27T13:06:51Z`
+Generated: `2026-08-28T00:03:08Z`
 
 ## DNS lifecycle
 
@@ -8,8 +8,8 @@ Generated: `2026-08-27T13:06:51Z`
 |---|---:|
 | Active | 103 |
 | Pending | 0 |
-| Suspect | 9 |
-| Quarantine | 35 |
+| Suspect | 1 |
+| Quarantine | 43 |
 | Expired | 0 |
 
 ## HTTPS/TLS observation
@@ -18,29 +18,30 @@ Generated: `2026-08-27T13:06:51Z`
 |---|---:|
 | Alive | 101 |
 | Unknown | 35 |
-| Suspect | 3 |
-| Dead | 0 |
+| Suspect | 0 |
+| Dead | 3 |
 
 ## Stability window
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
 Measured hosts: **139**
-Average stability: **72.7%**
+Average stability: **72.6%**
 
 ## Current HTTPS/TLS failures
 
 | Type | Hosts |
 |---|---:|
-| TIMEOUT | 38 |
+| TIMEOUT | 39 |
 
 ### Failure details
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `atlantis-sandbox.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 28 | TIMEOUT | 18.188.223.71, 18.227.115.25, 3.138.210.249 | 0.0 | 28 |
-| `atlantis-staging.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 28 | TIMEOUT | 18.189.116.204, 18.227.184.243, 3.17.15.237 | 0.0 | 28 |
-| `atlantis.c.anthropic.com` | suspect | `2026-08-20T17:28:27Z` | 28 | TIMEOUT | 18.224.178.248, 3.136.53.238, 3.14.101.156 | 0.0 | 28 |
+| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 29 | TIMEOUT | 18.188.223.71, 18.227.115.25, 3.138.210.249 | 0.0 | 29 |
+| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 29 | TIMEOUT | 18.189.116.204, 18.227.184.243, 3.17.15.237 | 0.0 | 29 |
+| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 29 | TIMEOUT | 18.224.178.248, 3.136.53.238, 3.14.101.156 | 0.0 | 29 |
+| `metrics.anthropic.com` | alive | `2026-08-28T00:03:08Z` | 1 | TIMEOUT | 136.113.71.169, 34.123.83.248, 35.239.79.203 | 96.6 | 29 |
 | `sandbox-chs2.staging.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 242.243.0.66 | 0.0 | 1 |
 | `sandbox.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 10.104.0.8 | 0.0 | 1 |
 | `sandbox.staging.api.anthropic.com` | unknown | `2026-08-20T17:28:27Z` | 1 | TIMEOUT | 10.104.0.117 | 0.0 | 1 |
@@ -79,7 +80,7 @@ Average stability: **72.7%**
 
 ## Discovery
 
-Discovery state updated: `2026-08-27T13:06:51Z`
+Discovery state updated: `2026-08-28T00:03:08Z`
 
 ## Notes
 
