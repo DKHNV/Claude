@@ -1,0 +1,39 @@
+{
+  "candidates": {
+    "3cce2a0ac94a83ee78e100df042c5d16b5d345834763eb38b7241d10600e0690": {
+      "classified_at": "2026-08-28T18:54:19Z",
+      "decision": "observe_only",
+      "evidence": {
+        "active_cycles": 1,
+        "current_presence": true,
+        "current_routing_status": "active",
+        "exact_dns_present": true,
+        "exact_dns_status": "active",
+        "feed_present": true,
+        "observation_count": 1,
+        "policy_excluded": false,
+        "policy_rule": null,
+        "presence_cycles": 1,
+        "reactivation_count": 0,
+        "seen_days": 1
+      },
+      "mode": "shadow",
+      "policy_reason": null,
+      "reason": "exact_dns_existing",
+      "version": 1
+    }
+  },
+  "classified_at": "2026-08-28T18:54:19Z",
+  "counts": {
+    "candidate": 0,
+    "observe_only": 1,
+    "observed": 0,
+    "rejected": 0
+  },
+  "mode": "shadow",
+  "service": "claude",
+  "source_content_hash": "994a1da36b0b864198e1b2c55a0f3d53dfdf2cc87a1ab32d6e69161e24fe9bab",
+  "source_generated_at": "2026-08-28T18:41:05Z",
+  "source_last_intake_at": "2026-08-28T18:54:19Z",
+  "version": 1
+}
