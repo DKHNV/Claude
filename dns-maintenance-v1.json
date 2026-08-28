@@ -49,7 +49,9 @@
             "enabled": true,
             "min_seen_days": 2,
             "min_observation_count": 2
-          },
+          }
+        }    
+      },
       "discovery": {
         "enabled": true,
         "sources": [
