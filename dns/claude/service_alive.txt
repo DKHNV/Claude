@@ -25,7 +25,6 @@ claudeusercontent.com
 code.claude.com
 console.anthropic.com
 console.claude.com
-conway.claudeusercontent.com
 conway.staging.claudeusercontent.com
 docs.anthropic.com
 docs.claude.com

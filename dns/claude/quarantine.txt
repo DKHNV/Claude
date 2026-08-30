@@ -2,6 +2,7 @@ api-release-candidate.anthropic.com
 api.console.anthropic.com
 atlas.anthropic.com
 console-staging.anthropic.com
+conway.claudeusercontent.com
 evals.anthropic.com
 sandbox-chs2.staging.api.anthropic.com
 sandbox.api.anthropic.com
