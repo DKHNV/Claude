@@ -1,7 +1,7 @@
 {
   "candidates": {
     "3cce2a0ac94a83ee78e100df042c5d16b5d345834763eb38b7241d10600e0690": {
-      "classified_at": "2026-08-30T22:56:46Z",
+      "classified_at": "2026-08-31T08:55:18Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 6,
@@ -13,7 +13,7 @@
         "observation_count": 2,
         "policy_excluded": false,
         "policy_rule": null,
-        "presence_cycles": 597,
+        "presence_cycles": 668,
         "reactivation_count": 0,
         "seen_days": 1
       },
@@ -23,7 +23,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-08-30T22:56:46Z",
+  "classified_at": "2026-08-31T08:55:18Z",
   "counts": {
     "candidate": 0,
     "observe_only": 1,
@@ -32,8 +32,8 @@
   },
   "mode": "shadow",
   "service": "claude",
-  "source_content_hash": "ab8736c6cf2b07a45420e32f13be7893446f8bff543c21f3ba02326c39a63c8c",
-  "source_generated_at": "2026-08-30T21:00:04Z",
-  "source_last_intake_at": "2026-08-30T22:56:46Z",
+  "source_content_hash": "bc5dbacdde51109aafe0088702123a3c22ff07693503518bf4ff9c067331e174",
+  "source_generated_at": "2026-08-31T02:58:16Z",
+  "source_last_intake_at": "2026-08-31T08:55:18Z",
   "version": 1
 }
