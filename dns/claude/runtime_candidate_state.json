@@ -10,10 +10,10 @@
       "first_observed": "2026-08-28T18:41:05Z",
       "hostname": "assets.claude.ai",
       "last_external_at": "2026-08-28T18:35:55Z",
-      "last_intake_at": "2026-09-01T13:42:48Z",
+      "last_intake_at": "2026-09-01T17:59:22Z",
       "last_observed": "2026-08-28T18:50:44Z",
       "observation_count": 2,
-      "presence_cycles": 1023,
+      "presence_cycles": 1093,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-28"
@@ -22,11 +22,11 @@
       "suffix": "claude.ai"
     }
   },
-  "last_intake_at": "2026-09-01T13:42:48Z",
+  "last_intake_at": "2026-09-01T17:59:22Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
   "service": "claude",
-  "source_content_hash": "390f6a222f9ae65743bb3ee0b135c0085f0479864cfcdfcc43578bba9cece215",
-  "source_generated_at": "2026-09-01T09:00:12Z"
+  "source_content_hash": "5650bd746818cefdc8dfd2c57d5163f1f8c6b57be1f957611398a304fef34c56",
+  "source_generated_at": "2026-09-01T14:58:22Z"
 }
