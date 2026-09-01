@@ -4,6 +4,7 @@ a-cdn.claude.ai
 a.anthropic.com
 a.claude.com
 academy.claude.com
+admin.claude.com
 alignment.anthropic.com
 anthropic.com
 api-backend-frontend.n.anthropic.com
@@ -21,6 +22,7 @@ atlantis.c.anthropic.com
 billing.anthropic.com
 brand.anthropic.com
 bridge.claudeusercontent.com
+cadence.claude.ai
 claude.ai
 claude.anthropic.com
 claude.com
@@ -79,7 +81,6 @@ s-cdn.anthropic.com
 slackbot.anthropic.com
 sso-metadata.anthropic.com
 staging.claude.ai
-staging.claude.com
 staging.claudeusercontent.com
 staging.identity.anthropic.com
 status.anthropic.com

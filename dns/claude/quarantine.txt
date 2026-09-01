@@ -8,6 +8,7 @@ sandbox-chs2.staging.api.anthropic.com
 sandbox.api.anthropic.com
 sandbox.staging.api.anthropic.com
 slack-channel.mcp.claude.com
+staging.claude.com
 staging.tunnel.anthropic.com
 stt-flux-a100.titanium-staging.api.anthropic.com
 stt-flux-a100.titanium.api.anthropic.com
