@@ -3,8 +3,8 @@
     {
       "active_cycles": 6,
       "candidate_id": "3cce2a0ac94a83ee78e100df042c5d16b5d345834763eb38b7241d10600e0690",
-      "current_presence": true,
-      "current_routing_status": "expired",
+      "current_presence": false,
+      "current_routing_status": "absent",
       "first_observed": "2026-08-28T18:41:05Z",
       "hostname": "assets.claude.ai",
       "id_version": 1,
@@ -20,8 +20,8 @@
       "suffix": "claude.ai"
     }
   ],
-  "content_hash": "002c44be4ed6b5ba88938cd5faa60d957c60d8e9cccbe13dedcbe781e8524af2",
-  "generated_at": "2026-09-02T14:55:42Z",
+  "content_hash": "a79fdcd39dbf70822f75f0f2fc2228d9c87ca595ebf82e2dace9f045f7987851",
+  "generated_at": "2026-09-02T20:58:44Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
