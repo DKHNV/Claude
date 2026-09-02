@@ -1,12 +1,12 @@
 {
   "candidates": {
     "3cce2a0ac94a83ee78e100df042c5d16b5d345834763eb38b7241d10600e0690": {
-      "classified_at": "2026-09-02T18:07:04Z",
+      "classified_at": "2026-09-02T22:51:37Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 6,
-        "current_presence": true,
-        "current_routing_status": "expired",
+        "current_presence": false,
+        "current_routing_status": "absent",
         "exact_dns_present": true,
         "exact_dns_status": "active",
         "feed_present": true,
@@ -23,7 +23,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-09-02T18:07:04Z",
+  "classified_at": "2026-09-02T22:51:37Z",
   "counts": {
     "candidate": 0,
     "observe_only": 1,
@@ -32,8 +32,8 @@
   },
   "mode": "shadow",
   "service": "claude",
-  "source_content_hash": "002c44be4ed6b5ba88938cd5faa60d957c60d8e9cccbe13dedcbe781e8524af2",
-  "source_generated_at": "2026-09-02T14:55:42Z",
-  "source_last_intake_at": "2026-09-02T18:07:04Z",
+  "source_content_hash": "a79fdcd39dbf70822f75f0f2fc2228d9c87ca595ebf82e2dace9f045f7987851",
+  "source_generated_at": "2026-09-02T20:58:44Z",
+  "source_last_intake_at": "2026-09-02T22:51:37Z",
   "version": 1
 }
