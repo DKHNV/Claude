@@ -11,7 +11,7 @@
       "last_external_at": "2026-08-28T18:35:55Z",
       "last_observed": "2026-08-28T18:50:44Z",
       "observation_count": 2,
-      "presence_cycles": 1236,
+      "presence_cycles": 1307,
       "reactivation_count": 0,
       "seen_dates": [
         "2026-08-28"
@@ -20,8 +20,8 @@
       "suffix": "claude.ai"
     }
   ],
-  "content_hash": "e70811655f10d5d88e9dc904635d10a058231dea3ffb709d9782b5d3424f7941",
-  "generated_at": "2026-09-02T03:00:10Z",
+  "content_hash": "e6e553d75d0a5a1e7d04d695498967ce5ef9f9287cca66e75dd57329a14ff341",
+  "generated_at": "2026-09-02T08:58:33Z",
   "hash_algorithm": "sha256",
   "history_scope": "since_analytics_start",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
