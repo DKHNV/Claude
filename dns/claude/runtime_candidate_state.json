@@ -10,7 +10,7 @@
       "first_observed": "2026-08-28T18:41:05Z",
       "hostname": "assets.claude.ai",
       "last_external_at": "2026-08-28T18:35:55Z",
-      "last_intake_at": "2026-09-02T22:51:37Z",
+      "last_intake_at": "2026-09-03T07:23:16Z",
       "last_observed": "2026-08-28T18:50:44Z",
       "observation_count": 2,
       "presence_cycles": 1378,
@@ -22,7 +22,7 @@
       "suffix": "claude.ai"
     }
   },
-  "last_intake_at": "2026-09-02T22:51:37Z",
+  "last_intake_at": "2026-09-03T07:23:16Z",
   "last_intake_status": "ok",
   "observer_id": "76e41c45-c36a-471f-9aa1-7db362959514",
   "schema_version": 1,
