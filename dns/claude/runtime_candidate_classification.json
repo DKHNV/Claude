@@ -1,7 +1,7 @@
 {
   "candidates": {
     "3cce2a0ac94a83ee78e100df042c5d16b5d345834763eb38b7241d10600e0690": {
-      "classified_at": "2026-09-04T07:25:48Z",
+      "classified_at": "2026-09-04T12:56:42Z",
       "decision": "observe_only",
       "evidence": {
         "active_cycles": 6,
@@ -23,7 +23,7 @@
       "version": 1
     }
   },
-  "classified_at": "2026-09-04T07:25:48Z",
+  "classified_at": "2026-09-04T12:56:42Z",
   "counts": {
     "candidate": 0,
     "observe_only": 1,
@@ -34,6 +34,6 @@
   "service": "claude",
   "source_content_hash": "a79fdcd39dbf70822f75f0f2fc2228d9c87ca595ebf82e2dace9f045f7987851",
   "source_generated_at": "2026-09-02T20:58:44Z",
-  "source_last_intake_at": "2026-09-04T07:25:48Z",
+  "source_last_intake_at": "2026-09-04T12:56:42Z",
   "version": 1
 }
