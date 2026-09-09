@@ -82,6 +82,7 @@ staging.claudeusercontent.com
 staging.identity.anthropic.com
 status.anthropic.com
 status.claude.com
+stripe-link.mcp.claude.com
 support.anthropic.com
 support.claude.com
 tai.anthropic.com
