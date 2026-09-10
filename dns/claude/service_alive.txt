@@ -39,6 +39,7 @@ earlyaccess.anthropic.com
 econ-index.mcp.claude.com
 economic-research.anthropic.com
 events.anthropic.com
+events.certification-staging.anthropic.com
 feedback.anthropic.com
 frame.claudeusercontent.com
 frame.staging.claudeusercontent.com
