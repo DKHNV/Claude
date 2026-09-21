@@ -19,6 +19,8 @@ assets.claude.com
 atlantis-sandbox.c.anthropic.com
 atlantis-staging.c.anthropic.com
 atlantis.c.anthropic.com
+auth-admin.fedramp.claude.com
+auth.fedramp.claude.com
 billing.anthropic.com
 brand.anthropic.com
 bridge.claudeusercontent.com
@@ -46,6 +48,7 @@ economic-research.anthropic.com
 events.anthropic.com
 events.certification-staging.anthropic.com
 events.certification.anthropic.com
+fedramp.claude.com
 feedback.anthropic.com
 frame.claudeusercontent.com
 frame.staging.claudeusercontent.com
