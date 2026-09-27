@@ -1,2 +1,3 @@
 conway.claudeusercontent.com
 staging.claude.com
+stt-nova3-s5.titanium-staging.api.anthropic.com
