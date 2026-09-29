@@ -17,6 +17,7 @@ assets.anthropic.com
 assets.claude.ai
 assets.claude.com
 auth-admin.fedramp.claude.com
+auth.claude.com
 auth.fedramp.claude.com
 billing.anthropic.com
 brand.anthropic.com
