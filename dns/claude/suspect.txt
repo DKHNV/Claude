@@ -1,2 +1,2 @@
-stt-flux-multi.titanium-staging.api.anthropic.com
+stt-flux-multi.titanium.api.anthropic.com
 stt-nova3-s0.titanium-staging.api.anthropic.com
