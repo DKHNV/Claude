@@ -1,1 +1,1 @@
-stt.titanium-staging.api.anthropic.com
+sandbox-chs2.staging.api.anthropic.com
