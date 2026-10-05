@@ -70,6 +70,7 @@ mcp-proxy.anthropic.com
 metrics.anthropic.com
 microsoft365.mcp.claude.com
 mint.identity.anthropic.com
+mint.staging.identity.anthropic.com
 notebook.anthropic.com
 partner-sso.anthropic.com
 partnerhub.anthropic.com
