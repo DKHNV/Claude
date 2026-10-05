@@ -1,2 +1,2 @@
-stt-flux-multi.titanium.api.anthropic.com
+sandbox-chs2.staging.api.anthropic.com
 stt.titanium-staging.api.anthropic.com
