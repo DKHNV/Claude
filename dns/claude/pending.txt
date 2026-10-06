@@ -1,1 +1,2 @@
+eu.api-staging.anthropic.com
 stt-nova3.titanium.api.anthropic.com
