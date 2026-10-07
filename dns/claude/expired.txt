@@ -10,7 +10,6 @@ slack-channel.mcp.claude.com
 staging.claude.com
 staging.tunnel.anthropic.com
 stt-flux-a100.titanium-staging.api.anthropic.com
-stt-flux-a100.titanium.api.anthropic.com
 stt-flux-multi-a100.titanium-staging.api.anthropic.com
 stt-flux-multi-a100.titanium.api.anthropic.com
 stt-flux-multi-chs2.titanium-staging.api.anthropic.com
