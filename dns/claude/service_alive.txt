@@ -44,6 +44,7 @@ eap-academy.claude.com
 earlyaccess.anthropic.com
 econ-index.mcp.claude.com
 economic-research.anthropic.com
+ehr.mcp.claude.com
 elm.relay.anthropic.com
 eu.api-staging.anthropic.com
 events.anthropic.com

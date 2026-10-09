@@ -1,2 +1,1 @@
-sandbox-chs2.staging.api.anthropic.com
 stt-nova3.titanium.api.anthropic.com
