@@ -10,10 +10,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -56,10 +56,10 @@
       "ipv4": [
         "34.36.57.103"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -100,15 +100,15 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "a-cdn.claude.ai",
       "ipv4": [
-        "18.160.41.36",
-        "18.160.41.69",
-        "18.160.41.89",
-        "18.160.41.117"
+        "108.159.227.15",
+        "108.159.227.28",
+        "108.159.227.70",
+        "108.159.227.75"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -116,30 +116,30 @@
         "1.1.1.1": {
           "canonical_name": "d8f2pm4haz8u1.cloudfront.net",
           "ipv4": [
-            "18.160.41.36",
-            "18.160.41.69",
-            "18.160.41.89",
-            "18.160.41.117"
+            "108.159.227.15",
+            "108.159.227.28",
+            "108.159.227.70",
+            "108.159.227.75"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "d8f2pm4haz8u1.cloudfront.net",
           "ipv4": [
-            "18.160.41.36",
-            "18.160.41.69",
-            "18.160.41.89",
-            "18.160.41.117"
+            "108.159.227.15",
+            "108.159.227.28",
+            "108.159.227.70",
+            "108.159.227.75"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "d8f2pm4haz8u1.cloudfront.net",
           "ipv4": [
-            "18.160.41.36",
-            "18.160.41.69",
-            "18.160.41.89",
-            "18.160.41.117"
+            "108.159.227.15",
+            "108.159.227.28",
+            "108.159.227.70",
+            "108.159.227.75"
           ],
           "status": "OK"
         }
@@ -160,10 +160,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -206,10 +206,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -252,10 +252,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -298,10 +298,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -344,10 +344,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -390,10 +390,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -437,10 +437,10 @@
       "ipv4": [
         "34.107.201.223"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -483,10 +483,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -565,10 +565,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -611,10 +611,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -694,10 +694,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -740,10 +740,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -786,10 +786,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -832,10 +832,10 @@
       "ipv4": [
         "34.120.108.227"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -878,10 +878,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -926,10 +926,10 @@
         "18.225.191.179",
         "18.227.162.175"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -980,10 +980,10 @@
         "13.59.25.86",
         "18.190.134.41"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1034,10 +1034,10 @@
         "3.150.244.51",
         "18.118.230.180"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1122,10 +1122,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1168,10 +1168,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1214,10 +1214,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1261,10 +1261,10 @@
         "104.18.35.156",
         "172.64.152.100"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1310,10 +1310,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1356,10 +1356,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1402,10 +1402,10 @@
       "ipv4": [
         "34.160.201.41"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1448,10 +1448,10 @@
       "ipv4": [
         "136.81.7.57"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1494,10 +1494,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1541,10 +1541,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1587,10 +1587,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1634,10 +1634,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1680,10 +1680,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1762,10 +1762,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1808,10 +1808,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1854,10 +1854,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1900,10 +1900,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -1982,10 +1982,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2028,10 +2028,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2074,10 +2074,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2120,10 +2120,10 @@
       "ipv4": [
         "35.190.46.17"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2167,10 +2167,10 @@
       "ipv4": [
         "35.190.46.17"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2213,10 +2213,10 @@
       "ipv4": [
         "35.190.119.221"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2259,10 +2259,10 @@
       "ipv4": [
         "35.190.119.221"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2305,10 +2305,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2351,10 +2351,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2397,10 +2397,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2443,10 +2443,10 @@
       "ipv4": [
         "34.111.105.183"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2489,10 +2489,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2535,10 +2535,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2584,11 +2584,11 @@
         "141.101.90.98",
         "141.101.90.99"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_failure": "2026-10-07T00:11:18Z",
       "last_negative": "2026-10-07T00:11:18Z",
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2676,10 +2676,10 @@
       "ipv4": [
         "34.95.86.89"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2722,10 +2722,10 @@
       "ipv4": [
         "35.244.250.246"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2768,10 +2768,10 @@
       "ipv4": [
         "136.69.68.222"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2814,10 +2814,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2860,10 +2860,10 @@
       "ipv4": [
         "34.160.232.196"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2906,10 +2906,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2952,10 +2952,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -2998,10 +2998,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3044,10 +3044,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3090,10 +3090,10 @@
       "ipv4": [
         "34.160.169.154"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3136,10 +3136,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3182,10 +3182,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3228,10 +3228,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3274,10 +3274,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3320,10 +3320,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3366,10 +3366,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3412,10 +3412,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3458,10 +3458,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3504,10 +3504,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3550,10 +3550,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3599,10 +3599,10 @@
         "35.239.79.203",
         "136.113.71.169"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3649,14 +3649,14 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "microsoft365.mcp.claude.com",
       "ipv4": [
-        "142.251.16.121",
-        "142.251.167.121",
-        "142.251.179.121"
+        "142.251.32.19",
+        "142.251.210.211",
+        "142.251.214.83"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3664,21 +3664,21 @@
         "1.1.1.1": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "142.251.167.121"
+            "142.251.32.19"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "142.251.179.121"
+            "142.251.214.83"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "ghs.googlehosted.com",
           "ipv4": [
-            "142.251.16.121"
+            "142.251.210.211"
           ],
           "status": "OK"
         }
@@ -3699,10 +3699,10 @@
       "ipv4": [
         "34.149.146.142"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3745,10 +3745,10 @@
       "ipv4": [
         "8.233.48.185"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3792,10 +3792,10 @@
         "104.18.36.24",
         "172.64.151.232"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3842,10 +3842,10 @@
         "104.18.35.233",
         "172.64.152.23"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3892,10 +3892,10 @@
         "104.20.25.123",
         "172.66.167.209"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3942,10 +3942,10 @@
         "104.20.25.123",
         "172.66.167.209"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -3989,17 +3989,17 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "partnerportal.anthropic.com",
       "ipv4": [
-        "23.48.203.135",
-        "23.48.203.142",
-        "23.53.11.132",
-        "23.53.11.141",
-        "23.212.249.205",
-        "23.212.249.219"
+        "23.66.127.135",
+        "23.66.127.167",
+        "23.200.156.19",
+        "23.200.156.21",
+        "23.200.156.83",
+        "23.200.156.85"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4007,24 +4007,24 @@
         "1.1.1.1": {
           "canonical_name": "e78038.dsca.akamaiedge.net",
           "ipv4": [
-            "23.48.203.135",
-            "23.48.203.142"
+            "23.66.127.135",
+            "23.66.127.167"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "e78038.dsca.akamaiedge.net",
           "ipv4": [
-            "23.53.11.132",
-            "23.53.11.141"
+            "23.200.156.83",
+            "23.200.156.85"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "e78038.dsca.akamaiedge.net",
           "ipv4": [
-            "23.212.249.205",
-            "23.212.249.219"
+            "23.200.156.19",
+            "23.200.156.21"
           ],
           "status": "OK"
         }
@@ -4045,10 +4045,10 @@
       "ipv4": [
         "34.50.145.103"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4092,10 +4092,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4138,10 +4138,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4184,10 +4184,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4231,10 +4231,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4277,10 +4277,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4323,10 +4323,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4369,10 +4369,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4415,10 +4415,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4463,10 +4463,10 @@
         "54.204.125.239",
         "54.226.171.166"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4515,10 +4515,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4561,10 +4561,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4607,10 +4607,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4653,10 +4653,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4700,10 +4700,10 @@
         "199.60.103.2",
         "199.60.103.254"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4749,10 +4749,10 @@
       "ipv4": [
         "34.54.194.141"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -4787,18 +4787,18 @@
     },
     "sandbox-chs2.staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 25,
+      "consecutive_negative_checks": 26,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "sandbox-chs2.staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 25,
+      "negative_observations": 26,
       "negative_since": "2026-10-02T00:15:52Z",
       "quarantined_at": "2026-10-09T00:41:44Z",
       "resolver_results": {
@@ -4984,10 +4984,10 @@
       "ipv4": [
         "34.110.210.69"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5030,10 +5030,10 @@
       "ipv4": [
         "136.68.118.212"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5076,10 +5076,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5158,10 +5158,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5204,10 +5204,10 @@
       "ipv4": [
         "34.111.26.53"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5286,10 +5286,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5330,15 +5330,15 @@
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "status.claude.com",
       "ipv4": [
-        "3.171.61.27",
-        "3.171.61.83",
-        "3.171.61.103",
-        "3.171.61.114"
+        "13.226.53.14",
+        "13.226.53.30",
+        "13.226.53.103",
+        "13.226.53.114"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5346,30 +5346,30 @@
         "1.1.1.1": {
           "canonical_name": "tymt9n04zgry.stspg-customer.com",
           "ipv4": [
-            "3.171.61.27",
-            "3.171.61.83",
-            "3.171.61.103",
-            "3.171.61.114"
+            "13.226.53.14",
+            "13.226.53.30",
+            "13.226.53.103",
+            "13.226.53.114"
           ],
           "status": "OK"
         },
         "8.8.8.8": {
           "canonical_name": "tymt9n04zgry.stspg-customer.com",
           "ipv4": [
-            "3.171.61.27",
-            "3.171.61.83",
-            "3.171.61.103",
-            "3.171.61.114"
+            "13.226.53.14",
+            "13.226.53.30",
+            "13.226.53.103",
+            "13.226.53.114"
           ],
           "status": "OK"
         },
         "9.9.9.9": {
           "canonical_name": "tymt9n04zgry.stspg-customer.com",
           "ipv4": [
-            "3.171.61.27",
-            "3.171.61.83",
-            "3.171.61.103",
-            "3.171.61.114"
+            "13.226.53.14",
+            "13.226.53.30",
+            "13.226.53.103",
+            "13.226.53.114"
           ],
           "status": "OK"
         }
@@ -5390,10 +5390,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -5428,18 +5428,18 @@
     },
     "stt-flux-a100.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-a100.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T09:39:56Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -5464,18 +5464,18 @@
     },
     "stt-flux-a100.titanium.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 10,
+      "consecutive_negative_checks": 11,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-a100.titanium.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 10,
+      "negative_observations": 11,
       "negative_since": "2026-10-07T00:11:18Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -5536,18 +5536,18 @@
     },
     "stt-flux-multi-a100.titanium.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 5,
+      "consecutive_negative_checks": 6,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi-a100.titanium.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 5,
+      "negative_observations": 6,
       "negative_since": "2026-10-08T20:12:38Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -5644,18 +5644,18 @@
     },
     "stt-flux-multi.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 51,
+      "consecutive_negative_checks": 52,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 51,
+      "negative_observations": 52,
       "negative_since": "2026-09-24T07:49:48Z",
       "quarantined_at": "2026-10-01T09:26:29Z",
       "resolver_results": {
@@ -5680,18 +5680,18 @@
     },
     "stt-flux-multi.titanium.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 35,
+      "consecutive_negative_checks": 36,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-flux-multi.titanium.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 35,
+      "negative_observations": 36,
       "negative_since": "2026-09-28T08:58:39Z",
       "quarantined_at": "2026-10-05T09:37:46Z",
       "resolver_results": {
@@ -5788,18 +5788,18 @@
     },
     "stt-nova3-s0.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 50,
+      "consecutive_negative_checks": 51,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s0.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 50,
+      "negative_observations": 51,
       "negative_since": "2026-09-24T13:49:26Z",
       "quarantined_at": "2026-10-01T19:52:53Z",
       "resolver_results": {
@@ -5860,18 +5860,18 @@
     },
     "stt-nova3-s1.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 60,
+      "consecutive_negative_checks": 61,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s1.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 60,
+      "negative_observations": 61,
       "negative_since": "2026-09-21T23:40:33Z",
       "quarantined_at": "2026-09-29T09:05:17Z",
       "resolver_results": {
@@ -6148,18 +6148,18 @@
     },
     "stt-nova3-s5.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 65,
+      "consecutive_negative_checks": 66,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s5.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 65,
+      "negative_observations": 66,
       "negative_since": "2026-09-20T13:13:57Z",
       "quarantined_at": "2026-09-27T14:19:14Z",
       "resolver_results": {
@@ -6184,18 +6184,18 @@
     },
     "stt-nova3-s5.titanium.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 64,
+      "consecutive_negative_checks": 65,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s5.titanium.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 64,
+      "negative_observations": 65,
       "negative_since": "2026-09-20T17:41:54Z",
       "quarantined_at": "2026-09-27T18:40:03Z",
       "resolver_results": {
@@ -6220,18 +6220,18 @@
     },
     "stt-nova3-s6.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 60,
+      "consecutive_negative_checks": 61,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s6.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 60,
+      "negative_observations": 61,
       "negative_since": "2026-09-21T23:40:33Z",
       "quarantined_at": "2026-09-29T09:05:17Z",
       "resolver_results": {
@@ -6256,18 +6256,18 @@
     },
     "stt-nova3-s6.titanium.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 62,
+      "consecutive_negative_checks": 63,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s6.titanium.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 62,
+      "negative_observations": 63,
       "negative_since": "2026-09-21T08:13:19Z",
       "quarantined_at": "2026-09-28T08:58:39Z",
       "resolver_results": {
@@ -6292,18 +6292,18 @@
     },
     "stt-nova3-s7.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 59,
+      "consecutive_negative_checks": 60,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s7.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 59,
+      "negative_observations": 60,
       "negative_since": "2026-09-22T07:57:36Z",
       "quarantined_at": "2026-09-29T09:05:17Z",
       "resolver_results": {
@@ -6328,18 +6328,18 @@
     },
     "stt-nova3-s7.titanium.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 57,
+      "consecutive_negative_checks": 58,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3-s7.titanium.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 57,
+      "negative_observations": 58,
       "negative_since": "2026-09-22T18:19:48Z",
       "quarantined_at": "2026-09-29T19:40:32Z",
       "resolver_results": {
@@ -6436,18 +6436,18 @@
     },
     "stt-nova3.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 3,
+      "consecutive_negative_checks": 4,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 3,
+      "negative_observations": 4,
       "negative_since": "2026-10-09T09:39:56Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -6472,18 +6472,18 @@
     },
     "stt-nova3.titanium.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 14,
+      "consecutive_negative_checks": 15,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt-nova3.titanium.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 14,
+      "negative_observations": 15,
       "negative_since": "2026-10-05T09:37:46Z",
       "quarantined_at": null,
       "resolver_results": {
@@ -6508,18 +6508,18 @@
     },
     "stt.titanium-staging.api.anthropic.com": {
       "canonical_name": null,
-      "consecutive_negative_checks": 34,
+      "consecutive_negative_checks": 35,
       "ever_validated": false,
       "expired_at": null,
       "first_seen": "2026-08-20T17:28:27Z",
       "hostname": "stt.titanium-staging.api.anthropic.com",
       "ipv4": [],
-      "last_check": "2026-10-10T00:20:33Z",
-      "last_failure": "2026-10-10T00:20:33Z",
-      "last_negative": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
+      "last_failure": "2026-10-10T09:05:35Z",
+      "last_negative": "2026-10-10T09:05:35Z",
       "last_result": "NEGATIVE",
       "last_success": "2026-08-20T17:28:27Z",
-      "negative_observations": 34,
+      "negative_observations": 35,
       "negative_since": "2026-09-28T20:50:55Z",
       "quarantined_at": "2026-10-05T21:41:03Z",
       "resolver_results": {
@@ -6588,10 +6588,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6634,10 +6634,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6680,10 +6680,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6726,10 +6726,10 @@
       "ipv4": [
         "136.69.73.82"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6772,10 +6772,10 @@
       "ipv4": [
         "136.69.73.82"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6819,10 +6819,10 @@
         "104.18.26.175",
         "104.18.27.175"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6904,10 +6904,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6950,10 +6950,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -6996,10 +6996,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7042,10 +7042,10 @@
       "ipv4": [
         "198.202.211.1"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7088,10 +7088,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7134,10 +7134,10 @@
       "ipv4": [
         "198.202.211.1"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7180,10 +7180,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7226,10 +7226,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7272,10 +7272,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7318,10 +7318,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7364,10 +7364,10 @@
       "ipv4": [
         "160.79.104.10"
       ],
-      "last_check": "2026-10-10T00:20:33Z",
+      "last_check": "2026-10-10T09:05:35Z",
       "last_negative": null,
       "last_result": "OK",
-      "last_success": "2026-10-10T00:20:33Z",
+      "last_success": "2026-10-10T09:05:35Z",
       "negative_observations": 0,
       "negative_since": null,
       "quarantined_at": null,
@@ -7401,6 +7401,6 @@
       "status": "active"
     }
   },
-  "updated_at": "2026-10-10T00:20:33Z",
+  "updated_at": "2026-10-10T09:05:35Z",
   "version": 2
 }
