@@ -1,1 +1,2 @@
+stt-flux-a100.titanium.api.anthropic.com
 stt-nova3.titanium.api.anthropic.com
