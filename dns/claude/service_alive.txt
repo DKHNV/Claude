@@ -92,6 +92,7 @@ red.anthropic.com
 releases.claude.com
 resources.anthropic.com
 s-cdn.anthropic.com
+safeguards.anthropic.com
 slackbot.anthropic.com
 sso-metadata.anthropic.com
 staging.claude.ai
