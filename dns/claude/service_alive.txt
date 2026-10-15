@@ -62,6 +62,7 @@ institute.anthropic.com
 internal.api.anthropic.com
 l10n-review.claude.com
 legal.anthropic.com
+license-usage.anthropic.com
 lifecycle-assets.claude.com
 links.anthropic.com
 links.email.claude.com
