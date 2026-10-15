@@ -1,12 +1,12 @@
 # Claude DNS Maintenance Report
 
-Generated: `2026-10-15T13:42:40Z`
+Generated: `2026-10-15T18:41:39Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 124 |
+| Active | 125 |
 | Pending | 1 |
 | Suspect | 5 |
 | Quarantine | 14 |
@@ -17,7 +17,7 @@ Generated: `2026-10-15T13:42:40Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 121 |
+| Alive | 122 |
 | Unknown | 0 |
 | Suspect | 0 |
 | Dead | 3 |
@@ -26,26 +26,27 @@ Generated: `2026-10-15T13:42:40Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **124**
+Measured hosts: **125**
 Average stability: **97.6%**
 
 ## Current HTTPS/TLS failures
 
 | Type | Hosts |
 |---|---:|
-| TIMEOUT | 3 |
+| TIMEOUT | 4 |
 
 ### Failure details
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 203 | TIMEOUT | 16.58.177.29, 18.225.191.179, 18.227.162.175 | 0.0 | 43 |
-| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 203 | TIMEOUT | 13.59.25.86, 18.190.134.41, 3.133.171.126 | 0.0 | 43 |
-| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 203 | TIMEOUT | 18.118.230.180, 3.129.169.2, 3.150.244.51 | 0.0 | 43 |
+| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 204 | TIMEOUT | 16.58.177.29, 18.225.191.179, 18.227.162.175 | 0.0 | 44 |
+| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 204 | TIMEOUT | 13.59.25.86, 18.190.134.41, 3.133.171.126 | 0.0 | 44 |
+| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 204 | TIMEOUT | 18.118.230.180, 3.129.169.2, 3.150.244.51 | 0.0 | 44 |
+| `metrics.anthropic.com` | alive | `2026-10-15T18:41:39Z` | 1 | TIMEOUT | 136.113.71.169, 34.123.83.248, 35.239.79.203 | 97.7 | 44 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-15T13:42:40Z`
+Discovery state updated: `2026-10-15T18:41:39Z`
 
 ## Notes
 
