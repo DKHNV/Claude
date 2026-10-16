@@ -1,4 +1,5 @@
 sandbox-chs2.staging.api.anthropic.com
+stt-flux-a100.titanium-staging.api.anthropic.com
 stt-flux-a100.titanium.api.anthropic.com
 stt-flux-multi-a100.titanium.api.anthropic.com
 stt-flux-multi.titanium-staging.api.anthropic.com
@@ -11,5 +12,6 @@ stt-nova3-s6.titanium-staging.api.anthropic.com
 stt-nova3-s6.titanium.api.anthropic.com
 stt-nova3-s7.titanium-staging.api.anthropic.com
 stt-nova3-s7.titanium.api.anthropic.com
+stt-nova3.titanium-staging.api.anthropic.com
 stt-nova3.titanium.api.anthropic.com
 stt.titanium-staging.api.anthropic.com

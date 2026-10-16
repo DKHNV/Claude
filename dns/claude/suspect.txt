@@ -1,4 +1,2 @@
-stt-flux-a100.titanium-staging.api.anthropic.com
 stt-flux-multi-a100.titanium-staging.api.anthropic.com
-stt-nova3.titanium-staging.api.anthropic.com
 stt.titanium.api.anthropic.com
