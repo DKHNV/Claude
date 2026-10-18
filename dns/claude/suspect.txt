@@ -1,4 +1,3 @@
 a-cdn.claude.ai
 eu.api.anthropic.com
-stt-flux-multi-a100.titanium-staging.api.anthropic.com
 stt.titanium.api.anthropic.com
