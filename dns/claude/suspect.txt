@@ -1,3 +1,2 @@
 a-cdn.claude.ai
 eu.api.anthropic.com
-stt.titanium.api.anthropic.com
