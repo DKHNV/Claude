@@ -96,8 +96,10 @@ releases.claude.com
 resources.anthropic.com
 s-cdn.anthropic.com
 safeguards.anthropic.com
+shop-pay.mcp.claude.com
 slackbot.anthropic.com
 sso-metadata.anthropic.com
+sso.claude.com
 staging.claude.ai
 staging.claudeusercontent.com
 staging.identity.anthropic.com
