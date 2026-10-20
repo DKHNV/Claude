@@ -29,6 +29,7 @@ claude.anthropic.com
 claude.com
 claudeusercontent.com
 code.claude.com
+config.claude.com
 console.anthropic.com
 console.claude.com
 content-cdn-staging.claude.com
