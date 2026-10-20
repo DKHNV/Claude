@@ -1,3 +1,4 @@
+eu.api.anthropic.com
 sandbox-chs2.staging.api.anthropic.com
 stt-flux-a100.titanium-staging.api.anthropic.com
 stt-flux-a100.titanium.api.anthropic.com

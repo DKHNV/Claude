@@ -1,2 +1,1 @@
 a-cdn.claude.ai
-eu.api.anthropic.com
