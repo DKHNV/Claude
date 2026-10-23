@@ -70,6 +70,7 @@ links.email.claude.com
 maple.relay.anthropic.com
 mcp-proxy-staging.anthropic.com
 mcp-proxy.anthropic.com
+media.platform.claude.com
 metrics.anthropic.com
 microsoft365.mcp.claude.com
 milfam.mcp.claude.com
