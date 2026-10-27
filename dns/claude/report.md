@@ -1,6 +1,6 @@
 # Claude DNS Maintenance Report
 
-Generated: `2026-10-27T09:21:50Z`
+Generated: `2026-10-27T15:33:36Z`
 
 ## DNS lifecycle
 
@@ -9,9 +9,9 @@ Generated: `2026-10-27T09:21:50Z`
 | Active | 130 |
 | Pending | 1 |
 | Suspect | 1 |
-| Quarantine | 21 |
+| Quarantine | 20 |
 | Excluded | 0 |
-| Expired | 24 |
+| Expired | 25 |
 
 ## HTTPS/TLS observation
 
@@ -39,13 +39,13 @@ Average stability: **97.7%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 248 | TIMEOUT | 3.133.10.11, 3.140.10.151, 3.20.100.197 | 0.0 | 54 |
-| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 248 | TIMEOUT | 18.222.89.254, 18.226.244.154, 3.128.249.144 | 0.0 | 54 |
-| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 248 | TIMEOUT | 18.118.234.93, 18.225.26.50, 3.136.137.215 | 0.0 | 54 |
+| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 249 | TIMEOUT | 3.133.10.11, 3.140.10.151, 3.20.100.197 | 0.0 | 54 |
+| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 249 | TIMEOUT | 18.222.89.254, 18.226.244.154, 3.128.249.144 | 0.0 | 54 |
+| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 249 | TIMEOUT | 18.118.234.93, 18.225.26.50, 3.136.137.215 | 0.0 | 54 |
 
 ## Discovery
 
-Discovery state updated: `2026-10-27T09:21:50Z`
+Discovery state updated: `2026-10-27T15:33:36Z`
 
 ## Notes
 
