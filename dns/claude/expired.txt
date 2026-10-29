@@ -12,6 +12,7 @@ staging.tunnel.anthropic.com
 stt-flux-multi-chs2.titanium-staging.api.anthropic.com
 stt-flux-multi-chs2.titanium.api.anthropic.com
 stt-nova3-s0.titanium.api.anthropic.com
+stt-nova3-s1.titanium-staging.api.anthropic.com
 stt-nova3-s1.titanium.api.anthropic.com
 stt-nova3-s2.titanium-staging.api.anthropic.com
 stt-nova3-s2.titanium.api.anthropic.com
@@ -21,6 +22,8 @@ stt-nova3-s4.titanium-staging.api.anthropic.com
 stt-nova3-s4.titanium.api.anthropic.com
 stt-nova3-s5.titanium-staging.api.anthropic.com
 stt-nova3-s5.titanium.api.anthropic.com
+stt-nova3-s6.titanium-staging.api.anthropic.com
 stt-nova3-s6.titanium.api.anthropic.com
+stt-nova3-s7.titanium-staging.api.anthropic.com
 stt-nova3-s8.titanium-staging.api.anthropic.com
 stt-nova3-s8.titanium.api.anthropic.com
