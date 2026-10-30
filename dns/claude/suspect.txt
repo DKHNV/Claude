@@ -1,2 +1,1 @@
-stt-flux.titanium-staging.api.anthropic.com
 tunnel.anthropic.com
