@@ -5,12 +5,11 @@ console-staging.anthropic.com
 conway.claudeusercontent.com
 evals.anthropic.com
 sandbox.api.anthropic.com
-sandbox.staging.api.anthropic.com
 slack-channel.mcp.claude.com
 staging.claude.com
 staging.tunnel.anthropic.com
 stt-flux-multi-chs2.titanium-staging.api.anthropic.com
-stt-flux-multi-chs2.titanium.api.anthropic.com
+stt-flux-multi.titanium-staging.api.anthropic.com
 stt-nova3-s0.titanium.api.anthropic.com
 stt-nova3-s1.titanium-staging.api.anthropic.com
 stt-nova3-s1.titanium.api.anthropic.com
