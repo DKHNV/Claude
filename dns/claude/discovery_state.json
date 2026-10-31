@@ -4,25 +4,25 @@
       "anthropic.com": {
         "after": 18040083732,
         "caught_up": true,
-        "last_poll": "2026-10-30T20:09:47Z"
+        "last_poll": "2026-10-31T01:05:00Z"
       },
       "claude.ai": {
         "after": 18034957758,
         "caught_up": true,
-        "last_poll": "2026-10-30T20:09:47Z"
+        "last_poll": "2026-10-31T01:05:00Z"
       },
       "claude.com": {
-        "after": 18029021503,
+        "after": 18078699771,
         "caught_up": true,
-        "last_poll": "2026-10-30T20:09:47Z"
+        "last_poll": "2026-10-31T01:05:00Z"
       },
       "claudeusercontent.com": {
         "after": 17591407808,
         "caught_up": true,
-        "last_poll": "2026-10-30T20:09:47Z"
+        "last_poll": "2026-10-31T01:05:00Z"
       }
     }
   },
-  "updated_at": "2026-10-30T20:09:47Z",
+  "updated_at": "2026-10-31T01:05:00Z",
   "version": 2
 }
