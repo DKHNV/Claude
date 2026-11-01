@@ -7,7 +7,6 @@ evals.anthropic.com
 sandbox.api.anthropic.com
 slack-channel.mcp.claude.com
 staging.claude.com
-staging.tunnel.anthropic.com
 stt-flux-multi-chs2.titanium-staging.api.anthropic.com
 stt-flux-multi.titanium-staging.api.anthropic.com
 stt-nova3-s0.titanium-staging.api.anthropic.com
