@@ -54,6 +54,7 @@ ehr.mcp.claude.com
 elm.relay.anthropic.com
 eu.api-staging.anthropic.com
 eu.api-staging.claude.com
+eu.api.claude.com
 events.anthropic.com
 events.certification-staging.anthropic.com
 events.certification.anthropic.com

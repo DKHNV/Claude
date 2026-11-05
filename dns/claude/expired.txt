@@ -1,4 +1,3 @@
-api-release-candidate.anthropic.com
 api.console.anthropic.com
 atlas.anthropic.com
 console-staging.anthropic.com
