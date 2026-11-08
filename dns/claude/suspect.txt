@@ -1,2 +1,1 @@
-staging.tunnel.anthropic.com
 stt-flux-multi-chs2.titanium-staging.api.anthropic.com
