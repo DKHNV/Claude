@@ -1,3 +1,2 @@
-api-release-candidate.anthropic.com
 eu.platform.claude.com
 sandbox.api.anthropic.com
