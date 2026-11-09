@@ -1,4 +1,5 @@
-eu.platform.claude.com
 sandbox.api.anthropic.com
+stt-nova3-s2.titanium-staging.api.anthropic.com
+stt-nova3-s2.titanium.api.anthropic.com
 stt-nova3-s4.titanium-staging.api.anthropic.com
 stt-nova3-s8.titanium.api.anthropic.com

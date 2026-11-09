@@ -1,2 +1,3 @@
 api-release-candidate.anthropic.com
+eu.platform.claude.com
 stt-flux-multi-chs2.titanium-staging.api.anthropic.com

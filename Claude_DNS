@@ -37,6 +37,7 @@ communityportal.claude.com
 config.claude.com
 console.anthropic.com
 console.claude.com
+containers.pkg.claude.com
 content-cdn-staging.claude.com
 content-cdn.claude.com
 conway.staging.claudeusercontent.com
@@ -91,6 +92,7 @@ partnerhub.anthropic.com
 partnerhub.claude.com
 partnerportal.anthropic.com
 pivot.claude.ai
+pkg.claude.com
 plaid.mcp.claude.com
 platform.anthropic.com
 platform.claude.com
