@@ -1,1 +1,2 @@
 api-release-candidate.anthropic.com
+sandbox.api.anthropic.com

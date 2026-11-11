@@ -11,6 +11,5 @@ stt-flux-multi-chs2.titanium.api.anthropic.com
 stt-flux.titanium-staging.api.anthropic.com
 stt-flux.titanium.api.anthropic.com
 stt-nova3.titanium-staging.api.anthropic.com
-stt-nova3.titanium.api.anthropic.com
 stt.titanium.api.anthropic.com
 tunnel.anthropic.com
