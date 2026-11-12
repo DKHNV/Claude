@@ -1,4 +1,5 @@
 a-cdn.claude.ai
+api-release-candidate.anthropic.com
 eu.api.anthropic.com
 sandbox.staging.api.anthropic.com
 staging.tunnel.anthropic.com
