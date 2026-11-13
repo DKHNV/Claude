@@ -127,9 +127,11 @@ tai.anthropic.com
 tidewater.claude.ai
 tidewater.preview.claude.ai
 trust.anthropic.com
+url283.sales.anthropic.com
 url6377.updates.claude.com
 url6646.mail.anthropic.com
 url8792.mail.anthropic.com
+url9493.alerts.anthropic.com
 website.anthropic.com
 website.claude.com
 websitemain.claude.com

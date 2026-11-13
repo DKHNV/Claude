@@ -1,23 +1,23 @@
 # Claude DNS Maintenance Report
 
-Generated: `2026-11-12T21:55:45Z`
+Generated: `2026-11-13T11:37:23Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 143 |
+| Active | 145 |
 | Pending | 7 |
-| Suspect | 3 |
-| Quarantine | 16 |
+| Suspect | 5 |
+| Quarantine | 15 |
 | Excluded | 0 |
-| Expired | 21 |
+| Expired | 20 |
 
 ## HTTPS/TLS observation
 
 | State | Hosts |
 |---|---:|
-| Alive | 140 |
+| Alive | 142 |
 | Unknown | 0 |
 | Suspect | 0 |
 | Dead | 3 |
@@ -26,7 +26,7 @@ Generated: `2026-11-12T21:55:45Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **143**
+Measured hosts: **145**
 Average stability: **97.9%**
 
 ## Current HTTPS/TLS failures
@@ -39,13 +39,13 @@ Average stability: **97.9%**
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 295 | TIMEOUT | 18.119.81.85, 18.227.142.10, 18.227.5.129 | 0.0 | 39 |
-| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 295 | TIMEOUT | 3.135.60.169, 3.15.76.244, 3.16.104.24 | 0.0 | 39 |
-| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 295 | TIMEOUT | 3.143.179.53, 3.150.81.34, 3.22.176.20 | 0.0 | 39 |
+| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 296 | TIMEOUT | 18.119.81.85, 18.227.142.10, 18.227.5.129 | 0.0 | 38 |
+| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 296 | TIMEOUT | 3.135.60.169, 3.15.76.244, 3.16.104.24 | 0.0 | 38 |
+| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 296 | TIMEOUT | 3.147.173.186, 3.150.81.34, 3.22.176.20 | 0.0 | 38 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-12T21:55:45Z`
+Discovery state updated: `2026-11-13T11:37:23Z`
 
 ## Notes
 
