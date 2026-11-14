@@ -1,6 +1,5 @@
 stt-nova3-s0.titanium.api.anthropic.com
 stt-nova3-s1.titanium-staging.api.anthropic.com
-stt-nova3-s1.titanium.api.anthropic.com
 stt-nova3-s3.titanium-staging.api.anthropic.com
 stt-nova3-s3.titanium.api.anthropic.com
 stt-nova3-s5.titanium.api.anthropic.com
