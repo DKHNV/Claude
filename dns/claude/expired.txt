@@ -10,9 +10,7 @@ stt-flux-a100.titanium.api.anthropic.com
 stt-flux-multi.titanium-staging.api.anthropic.com
 stt-flux-multi.titanium.api.anthropic.com
 stt-nova3-s0.titanium-staging.api.anthropic.com
-stt-nova3-s4.titanium.api.anthropic.com
 stt-nova3-s5.titanium-staging.api.anthropic.com
 stt-nova3-s6.titanium-staging.api.anthropic.com
-stt-nova3-s7.titanium-staging.api.anthropic.com
 stt-nova3.titanium.api.anthropic.com
 stt.titanium-staging.api.anthropic.com
