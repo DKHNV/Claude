@@ -1,4 +1,3 @@
-api.console.anthropic.com
 atlas.anthropic.com
 console-staging.anthropic.com
 conway.claudeusercontent.com
