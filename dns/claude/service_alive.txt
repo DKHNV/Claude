@@ -84,7 +84,6 @@ microsoft365.mcp.claude.com
 milfam.mcp.claude.com
 mint.identity.anthropic.com
 mint.staging.identity.anthropic.com
-notebook.anthropic.com
 p-b-test.api-staging.anthropic.com
 p-b.api-staging.anthropic.com
 partner-sso.anthropic.com
