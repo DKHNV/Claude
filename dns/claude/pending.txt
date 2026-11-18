@@ -1,4 +1,5 @@
 api.console.anthropic.com
+institute-embargo.anthropic.com
 stt-flux-multi.titanium-staging.api.anthropic.com
 stt-nova3-s0.titanium-staging.api.anthropic.com
 stt-nova3-s5.titanium-staging.api.anthropic.com
