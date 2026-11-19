@@ -1,13 +1,13 @@
 # Claude DNS Maintenance Report
 
-Generated: `2026-11-19T12:12:18Z`
+Generated: `2026-11-19T22:46:35Z`
 
 ## DNS lifecycle
 
 | State | Hosts |
 |---|---:|
-| Active | 146 |
-| Pending | 4 |
+| Active | 150 |
+| Pending | 5 |
 | Suspect | 8 |
 | Quarantine | 21 |
 | Excluded | 0 |
@@ -17,8 +17,8 @@ Generated: `2026-11-19T12:12:18Z`
 
 | State | Hosts |
 |---|---:|
-| Alive | 143 |
-| Unknown | 0 |
+| Alive | 145 |
+| Unknown | 2 |
 | Suspect | 0 |
 | Dead | 3 |
 
@@ -26,26 +26,29 @@ Generated: `2026-11-19T12:12:18Z`
 
 The score is based on measured HTTPS/TLS checks within the configured calendar-day window. SKIPPED observations are excluded.
 
-Measured hosts: **146**
-Average stability: **97.9%**
+Measured hosts: **150**
+Average stability: **96.6%**
 
 ## Current HTTPS/TLS failures
 
 | Type | Hosts |
 |---|---:|
 | TIMEOUT | 3 |
+| TLS_ERROR | 2 |
 
 ### Failure details
 
 | Hostname | State | Since | Observations | Last error | IPv4 | Stability | Samples |
 |---|---|---|---:|---|---|---:|---:|
-| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 311 | TIMEOUT | 18.116.101.233, 18.227.5.129, 3.130.176.201 | 0.0 | 36 |
-| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 311 | TIMEOUT | 13.185.122.205, 3.16.104.24, 3.21.217.103 | 0.0 | 36 |
-| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 311 | TIMEOUT | 3.131.45.70, 3.147.173.186, 3.22.176.20 | 0.0 | 36 |
+| `atlantis-sandbox.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 312 | TIMEOUT | 18.116.101.233, 18.227.5.129, 3.130.176.201 | 0.0 | 36 |
+| `atlantis-staging.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 312 | TIMEOUT | 13.185.122.205, 3.16.104.24, 3.21.217.103 | 0.0 | 36 |
+| `atlantis.c.anthropic.com` | dead | `2026-08-20T17:28:27Z` | 312 | TIMEOUT | 18.220.174.187, 3.131.45.70, 3.147.173.186 | 0.0 | 36 |
+| `operator.certification-staging.anthropic.com` | unknown | `2026-11-19T22:46:35Z` | 1 | TLS_ERROR | 136.82.91.96 | 0.0 | 1 |
+| `operator.certification.anthropic.com` | unknown | `2026-11-19T22:46:35Z` | 1 | TLS_ERROR | 136.68.147.187 | 0.0 | 1 |
 
 ## Discovery
 
-Discovery state updated: `2026-11-19T12:12:18Z`
+Discovery state updated: `2026-11-19T22:46:35Z`
 
 ## Notes
 

@@ -50,6 +50,7 @@ econ-index.mcp.claude.com
 economic-research.anthropic.com
 ehr.mcp.claude.com
 elm.relay.anthropic.com
+email.gh-mail.anthropic.com
 eu.api-staging.anthropic.com
 eu.api-staging.claude.com
 eu.api.claude.com
@@ -68,6 +69,7 @@ ilinks.anthropic.com
 institute-preview.anthropic.com
 institute.anthropic.com
 internal.api.anthropic.com
+investor.anthropic.com
 ipo.anthropic.com
 l10n-review.claude.com
 legal.anthropic.com
