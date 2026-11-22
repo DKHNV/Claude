@@ -1,4 +1,3 @@
-institute-embargo.anthropic.com
 p-b.api.anthropic.com
 stt-flux-multi.titanium.api.anthropic.com
 stt.titanium-staging.api.anthropic.com
