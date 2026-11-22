@@ -4,7 +4,6 @@ console-staging.anthropic.com
 conway.claudeusercontent.com
 eu.api.anthropic.com
 evals.anthropic.com
-sandbox-chs2.staging.api.anthropic.com
 slack-channel.mcp.claude.com
 staging.claude.com
 stt-flux-a100.titanium-staging.api.anthropic.com
