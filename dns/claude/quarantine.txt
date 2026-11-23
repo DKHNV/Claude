@@ -1,4 +1,5 @@
 api-release-candidate.anthropic.com
+api.console.anthropic.com
 notebook.anthropic.com
 sandbox.api.anthropic.com
 sandbox.staging.api.anthropic.com
