@@ -1,7 +1,6 @@
 /ip firewall address-list
 
 add list=claude address=2.16.6.0/24 comment=claude
-add list=claude address=2.21.23.0/24 comment=claude
 add list=claude address=3.21.153.0/24 comment=claude
 add list=claude address=3.21.217.0/24 comment=claude
 add list=claude address=3.131.45.0/24 comment=claude
@@ -32,19 +31,20 @@ add list=claude address=34.160.10.0/24 comment=claude
 add list=claude address=34.160.44.0/24 comment=claude
 add list=claude address=34.160.201.0/24 comment=claude
 add list=claude address=34.160.232.0/24 comment=claude
-add list=claude address=34.225.191.0/24 comment=claude
 add list=claude address=35.190.46.0/24 comment=claude
 add list=claude address=35.190.77.0/24 comment=claude
 add list=claude address=35.190.119.0/24 comment=claude
 add list=claude address=35.239.79.0/24 comment=claude
 add list=claude address=35.241.17.0/24 comment=claude
 add list=claude address=35.244.250.0/24 comment=claude
-add list=claude address=44.196.246.0/24 comment=claude
-add list=claude address=44.218.31.0/24 comment=claude
+add list=claude address=44.194.185.0/24 comment=claude
+add list=claude address=52.71.155.0/24 comment=claude
 add list=claude address=54.84.170.0/24 comment=claude
+add list=claude address=98.82.251.0/24 comment=claude
 add list=claude address=104.18.26.0/23 comment=claude
 add list=claude address=104.18.35.0/24 comment=claude
 add list=claude address=104.20.25.0/24 comment=claude
+add list=claude address=104.21.43.0/24 comment=claude
 add list=claude address=108.156.22.0/24 comment=claude
 add list=claude address=136.68.81.0/24 comment=claude
 add list=claude address=136.68.118.0/24 comment=claude
@@ -61,6 +61,7 @@ add list=claude address=162.159.129.0/24 comment=claude
 add list=claude address=162.159.130.0/24 comment=claude
 add list=claude address=172.64.152.0/24 comment=claude
 add list=claude address=172.66.167.0/24 comment=claude
+add list=claude address=172.67.182.0/24 comment=claude
 add list=claude address=172.253.122.0/24 comment=claude
 add list=claude address=198.202.211.0/24 comment=claude
 add list=claude address=199.60.103.0/24 comment=claude
