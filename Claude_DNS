@@ -95,6 +95,7 @@ operator.certification.anthropic.com
 otlp.anthropic.com
 p-b-test.api-staging.anthropic.com
 p-b.api-staging.anthropic.com
+p-b.api.anthropic.com
 partner-sso.anthropic.com
 partnerhub.anthropic.com
 partnerhub.claude.com
