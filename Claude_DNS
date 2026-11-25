@@ -67,6 +67,8 @@ frame.claudeusercontent.com
 frame.staging.claudeusercontent.com
 habanero.claude.com
 hcls.mcp.claude.com
+hooks.certification-staging.anthropic.com
+hooks.certification.anthropic.com
 identity.anthropic.com
 ilinks.anthropic.com
 institute-embargo.anthropic.com
