@@ -3,6 +3,7 @@ api.console.anthropic.com
 notebook.anthropic.com
 sandbox.api.anthropic.com
 sandbox.staging.api.anthropic.com
+slackbot.anthropic.com
 staging.tunnel.anthropic.com
 stt-flux-multi-chs2.titanium-staging.api.anthropic.com
 stt-flux-multi-chs2.titanium.api.anthropic.com
