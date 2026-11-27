@@ -1,8 +1,10 @@
 /ip firewall address-list
 
 add list=claude address=3.21.153.0/24 comment=claude
-add list=claude address=3.21.217.0/24 comment=claude
-add list=claude address=3.131.45.0/24 comment=claude
+add list=claude address=3.128.13.0/24 comment=claude
+add list=claude address=3.133.230.0/24 comment=claude
+add list=claude address=3.137.118.0/24 comment=claude
+add list=claude address=3.138.148.0/24 comment=claude
 add list=claude address=3.143.193.0/24 comment=claude
 add list=claude address=3.147.214.0/24 comment=claude
 add list=claude address=3.150.100.0/24 comment=claude
@@ -10,7 +12,7 @@ add list=claude address=3.151.85.0/24 comment=claude
 add list=claude address=8.232.130.0/24 comment=claude
 add list=claude address=8.233.9.0/24 comment=claude
 add list=claude address=8.233.48.0/24 comment=claude
-add list=claude address=13.185.122.0/24 comment=claude
+add list=claude address=18.119.249.0/24 comment=claude
 add list=claude address=18.220.174.0/24 comment=claude
 add list=claude address=34.36.57.0/24 comment=claude
 add list=claude address=34.50.145.0/24 comment=claude
