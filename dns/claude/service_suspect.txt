@@ -1,0 +1,2 @@
+hooks.certification-staging.anthropic.com
+hooks.certification.anthropic.com
